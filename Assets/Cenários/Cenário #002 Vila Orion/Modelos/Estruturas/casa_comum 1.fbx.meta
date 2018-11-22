@@ -1,0 +1,774 @@
+fileFormatVersion: 2
+guid: 68b7ef42ec2302b42939de0ec8406129
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Casa_cumum 1.003
+    100004: Casa_cumum 1.004
+    100006: Casa_cumum 1.005
+    100008: Casa_cumum 1.006
+    100010: Casa_cumum 1.007
+    100012: Casa_cumum 1.008
+    100014: Casa_cumum 1.009
+    100016: Casa_cumum 1.010
+    100018: Casa_cumum 1.011
+    100020: Casa_cumum 1.012
+    100022: Casa_cumum 1.013
+    100024: Casa_cumum 1.014
+    100026: Casa_cumum 1.015
+    100028: Casa_cumum 1.016
+    100030: Casa_cumum 1.017
+    100032: Casa_cumum 1.018
+    100034: Casa_cumum 1.019
+    100036: Casa_cumum 1.020
+    100038: Casa_cumum 1.021
+    100040: Casa_cumum 1.022
+    100042: Casa_cumum 1.023
+    100044: Casa_cumum 1.024
+    100046: Casa_cumum 1.025
+    100048: Casa_cumum 1.026
+    100050: Casa_cumum 1.027
+    100052: Casa_cumum 1.028
+    100054: Casa_cumum 1.029
+    100056: Casa_cumum 1.030
+    100058: Casa_cumum 1.031
+    100060: Casa_cumum 1.032
+    100062: Casa_cumum 1.033
+    100064: Casa_cumum 1.034
+    100066: Casa_cumum 1.035
+    100068: Casa_cumum 1.036
+    100070: Casa_cumum 1.037
+    100072: Casa_cumum 1.038
+    100074: Casa_cumum 1.039
+    100076: Casa_cumum 1.040
+    100078: Casa_cumum 1.041
+    100080: Casa_cumum 1.042
+    100082: Casa_cumum 1.043
+    100084: Casa_cumum 1.044
+    100086: Casa_cumum 1.045
+    100088: Casa_cumum 1.046
+    100090: Casa_cumum 1.047
+    100092: Casa_cumum 1.048
+    100094: Casa_cumum 1.049
+    100096: Casa_cumum 1.050
+    100098: Casa_cumum 1.051
+    100100: Casa_cumum 1.052
+    100102: Casa_cumum 1.053
+    100104: Casa_cumum 1.054
+    100106: Casa_cumum 1.055
+    100108: Casa_cumum 1.056
+    100110: Casa_cumum 1.057
+    100112: Casa_cumum 1.058
+    100114: Casa_cumum 1.059
+    100116: Casa_cumum 1.060
+    100118: Casa_cumum 1.061
+    100120: Casa_cumum 1.062
+    100122: Casa_cumum 1.063
+    100124: Casa_cumum 1.064
+    100126: Casa_cumum 1.065
+    100128: Casa_cumum 1.066
+    100130: Casa_cumum 1.067
+    100132: Casa_cumum 1.068
+    100134: Casa_cumum 1.069
+    100136: Casa_cumum 1.070
+    100138: Casa_cumum 1.071
+    100140: Casa_cumum 1.072
+    100142: Casa_cumum 1.073
+    100144: Casa_cumum 1.074
+    100146: Casa_cumum 1.075
+    100148: Casa_cumum 1.076
+    100150: Casa_cumum 1.077
+    100152: Casa_cumum 1.078
+    100154: Casa_cumum 1.079
+    100156: Casa_cumum 1.080
+    100158: Casa_cumum 1.081
+    100160: Casa_cumum 1.082
+    100162: Casa_cumum 1.085
+    100164: Casa_cumum 1.086
+    100166: Casa_cumum 1.087
+    100168: Casa_cumum 1.088
+    100170: Casa_cumum 1.089
+    100172: Casa_cumum 1.090
+    100174: Casa_cumum 1.091
+    100176: Casa_cumum 1.092
+    100178: Casa_cumum 1.093
+    100180: Casa_cumum 1.094
+    100182: Casa_cumum 1.095
+    100184: Casa_cumum 1.096
+    100186: Casa_cumum 1.097
+    100188: Casa_cumum 1.098
+    100190: Casa_cumum 1.099
+    100192: Casa_cumum 1.100
+    100194: Casa_cumum 1.101
+    100196: Casa_cumum 1.102
+    100198: Casa_cumum 1.103
+    100200: Casa_cumum 1.104
+    100202: Casa_cumum 1.105
+    100204: Casa_cumum 1.106
+    100206: Casa_cumum 1.107
+    100208: Casa_cumum 1.112
+    100210: Casa_cumum 1.113
+    100212: Casa_cumum 1.114
+    100214: Casa_cumum 1.115
+    100216: Casa_cumum 1.116
+    100218: Casa_cumum 1.117
+    100220: Casa_cumum 1.118
+    100222: Casa_cumum 1.119
+    100224: Casa_cumum 1.120
+    100226: Casa_cumum 1.121
+    100228: Casa_cumum 1.122
+    100230: Casa_cumum 1.123
+    100232: Casa_cumum 1.124
+    100234: Casa_cumum 1.125
+    100236: Casa_cumum 1.126
+    100238: Casa_cumum 1.127
+    100240: Casa_cumum 1.128
+    100242: Casa_cumum 1.129
+    100244: Casa_cumum 1.130
+    100246: Casa_cumum 1.131
+    100248: Casa_cumum 1.132
+    100250: Casa_cumum 1.133
+    100252: Casa_cumum 1.134
+    100254: Casa_cumum 1.135
+    100256: Casa_cumum 1.136
+    100258: Casa_cumum 1.137
+    100260: Casa_cumum 1.138
+    100262: Casa_cumum 1.140
+    100264: Casa_cumum 1.141
+    100266: Casa_cumum 1.142
+    100268: Casa_cumum 1.143
+    100270: Casa_cumum 1.226
+    100272: Casa_cumum 1.227
+    400000: //RootNode
+    400002: Casa_cumum 1.003
+    400004: Casa_cumum 1.004
+    400006: Casa_cumum 1.005
+    400008: Casa_cumum 1.006
+    400010: Casa_cumum 1.007
+    400012: Casa_cumum 1.008
+    400014: Casa_cumum 1.009
+    400016: Casa_cumum 1.010
+    400018: Casa_cumum 1.011
+    400020: Casa_cumum 1.012
+    400022: Casa_cumum 1.013
+    400024: Casa_cumum 1.014
+    400026: Casa_cumum 1.015
+    400028: Casa_cumum 1.016
+    400030: Casa_cumum 1.017
+    400032: Casa_cumum 1.018
+    400034: Casa_cumum 1.019
+    400036: Casa_cumum 1.020
+    400038: Casa_cumum 1.021
+    400040: Casa_cumum 1.022
+    400042: Casa_cumum 1.023
+    400044: Casa_cumum 1.024
+    400046: Casa_cumum 1.025
+    400048: Casa_cumum 1.026
+    400050: Casa_cumum 1.027
+    400052: Casa_cumum 1.028
+    400054: Casa_cumum 1.029
+    400056: Casa_cumum 1.030
+    400058: Casa_cumum 1.031
+    400060: Casa_cumum 1.032
+    400062: Casa_cumum 1.033
+    400064: Casa_cumum 1.034
+    400066: Casa_cumum 1.035
+    400068: Casa_cumum 1.036
+    400070: Casa_cumum 1.037
+    400072: Casa_cumum 1.038
+    400074: Casa_cumum 1.039
+    400076: Casa_cumum 1.040
+    400078: Casa_cumum 1.041
+    400080: Casa_cumum 1.042
+    400082: Casa_cumum 1.043
+    400084: Casa_cumum 1.044
+    400086: Casa_cumum 1.045
+    400088: Casa_cumum 1.046
+    400090: Casa_cumum 1.047
+    400092: Casa_cumum 1.048
+    400094: Casa_cumum 1.049
+    400096: Casa_cumum 1.050
+    400098: Casa_cumum 1.051
+    400100: Casa_cumum 1.052
+    400102: Casa_cumum 1.053
+    400104: Casa_cumum 1.054
+    400106: Casa_cumum 1.055
+    400108: Casa_cumum 1.056
+    400110: Casa_cumum 1.057
+    400112: Casa_cumum 1.058
+    400114: Casa_cumum 1.059
+    400116: Casa_cumum 1.060
+    400118: Casa_cumum 1.061
+    400120: Casa_cumum 1.062
+    400122: Casa_cumum 1.063
+    400124: Casa_cumum 1.064
+    400126: Casa_cumum 1.065
+    400128: Casa_cumum 1.066
+    400130: Casa_cumum 1.067
+    400132: Casa_cumum 1.068
+    400134: Casa_cumum 1.069
+    400136: Casa_cumum 1.070
+    400138: Casa_cumum 1.071
+    400140: Casa_cumum 1.072
+    400142: Casa_cumum 1.073
+    400144: Casa_cumum 1.074
+    400146: Casa_cumum 1.075
+    400148: Casa_cumum 1.076
+    400150: Casa_cumum 1.077
+    400152: Casa_cumum 1.078
+    400154: Casa_cumum 1.079
+    400156: Casa_cumum 1.080
+    400158: Casa_cumum 1.081
+    400160: Casa_cumum 1.082
+    400162: Casa_cumum 1.085
+    400164: Casa_cumum 1.086
+    400166: Casa_cumum 1.087
+    400168: Casa_cumum 1.088
+    400170: Casa_cumum 1.089
+    400172: Casa_cumum 1.090
+    400174: Casa_cumum 1.091
+    400176: Casa_cumum 1.092
+    400178: Casa_cumum 1.093
+    400180: Casa_cumum 1.094
+    400182: Casa_cumum 1.095
+    400184: Casa_cumum 1.096
+    400186: Casa_cumum 1.097
+    400188: Casa_cumum 1.098
+    400190: Casa_cumum 1.099
+    400192: Casa_cumum 1.100
+    400194: Casa_cumum 1.101
+    400196: Casa_cumum 1.102
+    400198: Casa_cumum 1.103
+    400200: Casa_cumum 1.104
+    400202: Casa_cumum 1.105
+    400204: Casa_cumum 1.106
+    400206: Casa_cumum 1.107
+    400208: Casa_cumum 1.112
+    400210: Casa_cumum 1.113
+    400212: Casa_cumum 1.114
+    400214: Casa_cumum 1.115
+    400216: Casa_cumum 1.116
+    400218: Casa_cumum 1.117
+    400220: Casa_cumum 1.118
+    400222: Casa_cumum 1.119
+    400224: Casa_cumum 1.120
+    400226: Casa_cumum 1.121
+    400228: Casa_cumum 1.122
+    400230: Casa_cumum 1.123
+    400232: Casa_cumum 1.124
+    400234: Casa_cumum 1.125
+    400236: Casa_cumum 1.126
+    400238: Casa_cumum 1.127
+    400240: Casa_cumum 1.128
+    400242: Casa_cumum 1.129
+    400244: Casa_cumum 1.130
+    400246: Casa_cumum 1.131
+    400248: Casa_cumum 1.132
+    400250: Casa_cumum 1.133
+    400252: Casa_cumum 1.134
+    400254: Casa_cumum 1.135
+    400256: Casa_cumum 1.136
+    400258: Casa_cumum 1.137
+    400260: Casa_cumum 1.138
+    400262: Casa_cumum 1.140
+    400264: Casa_cumum 1.141
+    400266: Casa_cumum 1.142
+    400268: Casa_cumum 1.143
+    400270: Casa_cumum 1.226
+    400272: Casa_cumum 1.227
+    2100000: Casa_comum 01_tex
+    2100002: Woodenbeams.001
+    2300000: //RootNode
+    2300002: Casa_cumum 1.003
+    2300004: Casa_cumum 1.004
+    2300006: Casa_cumum 1.005
+    2300008: Casa_cumum 1.006
+    2300010: Casa_cumum 1.007
+    2300012: Casa_cumum 1.008
+    2300014: Casa_cumum 1.009
+    2300016: Casa_cumum 1.010
+    2300018: Casa_cumum 1.011
+    2300020: Casa_cumum 1.012
+    2300022: Casa_cumum 1.013
+    2300024: Casa_cumum 1.014
+    2300026: Casa_cumum 1.015
+    2300028: Casa_cumum 1.016
+    2300030: Casa_cumum 1.017
+    2300032: Casa_cumum 1.018
+    2300034: Casa_cumum 1.019
+    2300036: Casa_cumum 1.020
+    2300038: Casa_cumum 1.021
+    2300040: Casa_cumum 1.022
+    2300042: Casa_cumum 1.023
+    2300044: Casa_cumum 1.024
+    2300046: Casa_cumum 1.025
+    2300048: Casa_cumum 1.026
+    2300050: Casa_cumum 1.027
+    2300052: Casa_cumum 1.028
+    2300054: Casa_cumum 1.029
+    2300056: Casa_cumum 1.030
+    2300058: Casa_cumum 1.031
+    2300060: Casa_cumum 1.032
+    2300062: Casa_cumum 1.033
+    2300064: Casa_cumum 1.034
+    2300066: Casa_cumum 1.035
+    2300068: Casa_cumum 1.036
+    2300070: Casa_cumum 1.037
+    2300072: Casa_cumum 1.038
+    2300074: Casa_cumum 1.039
+    2300076: Casa_cumum 1.040
+    2300078: Casa_cumum 1.041
+    2300080: Casa_cumum 1.042
+    2300082: Casa_cumum 1.043
+    2300084: Casa_cumum 1.044
+    2300086: Casa_cumum 1.045
+    2300088: Casa_cumum 1.046
+    2300090: Casa_cumum 1.047
+    2300092: Casa_cumum 1.048
+    2300094: Casa_cumum 1.049
+    2300096: Casa_cumum 1.050
+    2300098: Casa_cumum 1.051
+    2300100: Casa_cumum 1.052
+    2300102: Casa_cumum 1.053
+    2300104: Casa_cumum 1.054
+    2300106: Casa_cumum 1.055
+    2300108: Casa_cumum 1.056
+    2300110: Casa_cumum 1.057
+    2300112: Casa_cumum 1.058
+    2300114: Casa_cumum 1.059
+    2300116: Casa_cumum 1.060
+    2300118: Casa_cumum 1.061
+    2300120: Casa_cumum 1.062
+    2300122: Casa_cumum 1.063
+    2300124: Casa_cumum 1.064
+    2300126: Casa_cumum 1.065
+    2300128: Casa_cumum 1.066
+    2300130: Casa_cumum 1.067
+    2300132: Casa_cumum 1.068
+    2300134: Casa_cumum 1.069
+    2300136: Casa_cumum 1.070
+    2300138: Casa_cumum 1.071
+    2300140: Casa_cumum 1.072
+    2300142: Casa_cumum 1.073
+    2300144: Casa_cumum 1.074
+    2300146: Casa_cumum 1.075
+    2300148: Casa_cumum 1.076
+    2300150: Casa_cumum 1.077
+    2300152: Casa_cumum 1.078
+    2300154: Casa_cumum 1.079
+    2300156: Casa_cumum 1.080
+    2300158: Casa_cumum 1.081
+    2300160: Casa_cumum 1.082
+    2300162: Casa_cumum 1.085
+    2300164: Casa_cumum 1.086
+    2300166: Casa_cumum 1.087
+    2300168: Casa_cumum 1.088
+    2300170: Casa_cumum 1.089
+    2300172: Casa_cumum 1.090
+    2300174: Casa_cumum 1.091
+    2300176: Casa_cumum 1.092
+    2300178: Casa_cumum 1.093
+    2300180: Casa_cumum 1.094
+    2300182: Casa_cumum 1.095
+    2300184: Casa_cumum 1.096
+    2300186: Casa_cumum 1.097
+    2300188: Casa_cumum 1.098
+    2300190: Casa_cumum 1.099
+    2300192: Casa_cumum 1.100
+    2300194: Casa_cumum 1.101
+    2300196: Casa_cumum 1.102
+    2300198: Casa_cumum 1.103
+    2300200: Casa_cumum 1.104
+    2300202: Casa_cumum 1.105
+    2300204: Casa_cumum 1.106
+    2300206: Casa_cumum 1.107
+    2300208: Casa_cumum 1.112
+    2300210: Casa_cumum 1.113
+    2300212: Casa_cumum 1.114
+    2300214: Casa_cumum 1.115
+    2300216: Casa_cumum 1.116
+    2300218: Casa_cumum 1.117
+    2300220: Casa_cumum 1.118
+    2300222: Casa_cumum 1.119
+    2300224: Casa_cumum 1.120
+    2300226: Casa_cumum 1.121
+    2300228: Casa_cumum 1.122
+    2300230: Casa_cumum 1.123
+    2300232: Casa_cumum 1.124
+    2300234: Casa_cumum 1.125
+    2300236: Casa_cumum 1.126
+    2300238: Casa_cumum 1.127
+    2300240: Casa_cumum 1.128
+    2300242: Casa_cumum 1.129
+    2300244: Casa_cumum 1.130
+    2300246: Casa_cumum 1.131
+    2300248: Casa_cumum 1.132
+    2300250: Casa_cumum 1.133
+    2300252: Casa_cumum 1.134
+    2300254: Casa_cumum 1.135
+    2300256: Casa_cumum 1.136
+    2300258: Casa_cumum 1.137
+    2300260: Casa_cumum 1.138
+    2300262: Casa_cumum 1.140
+    2300264: Casa_cumum 1.141
+    2300266: Casa_cumum 1.142
+    2300268: Casa_cumum 1.143
+    2300270: Casa_cumum 1.226
+    2300272: Casa_cumum 1.227
+    3300000: //RootNode
+    3300002: Casa_cumum 1.003
+    3300004: Casa_cumum 1.004
+    3300006: Casa_cumum 1.005
+    3300008: Casa_cumum 1.006
+    3300010: Casa_cumum 1.007
+    3300012: Casa_cumum 1.008
+    3300014: Casa_cumum 1.009
+    3300016: Casa_cumum 1.010
+    3300018: Casa_cumum 1.011
+    3300020: Casa_cumum 1.012
+    3300022: Casa_cumum 1.013
+    3300024: Casa_cumum 1.014
+    3300026: Casa_cumum 1.015
+    3300028: Casa_cumum 1.016
+    3300030: Casa_cumum 1.017
+    3300032: Casa_cumum 1.018
+    3300034: Casa_cumum 1.019
+    3300036: Casa_cumum 1.020
+    3300038: Casa_cumum 1.021
+    3300040: Casa_cumum 1.022
+    3300042: Casa_cumum 1.023
+    3300044: Casa_cumum 1.024
+    3300046: Casa_cumum 1.025
+    3300048: Casa_cumum 1.026
+    3300050: Casa_cumum 1.027
+    3300052: Casa_cumum 1.028
+    3300054: Casa_cumum 1.029
+    3300056: Casa_cumum 1.030
+    3300058: Casa_cumum 1.031
+    3300060: Casa_cumum 1.032
+    3300062: Casa_cumum 1.033
+    3300064: Casa_cumum 1.034
+    3300066: Casa_cumum 1.035
+    3300068: Casa_cumum 1.036
+    3300070: Casa_cumum 1.037
+    3300072: Casa_cumum 1.038
+    3300074: Casa_cumum 1.039
+    3300076: Casa_cumum 1.040
+    3300078: Casa_cumum 1.041
+    3300080: Casa_cumum 1.042
+    3300082: Casa_cumum 1.043
+    3300084: Casa_cumum 1.044
+    3300086: Casa_cumum 1.045
+    3300088: Casa_cumum 1.046
+    3300090: Casa_cumum 1.047
+    3300092: Casa_cumum 1.048
+    3300094: Casa_cumum 1.049
+    3300096: Casa_cumum 1.050
+    3300098: Casa_cumum 1.051
+    3300100: Casa_cumum 1.052
+    3300102: Casa_cumum 1.053
+    3300104: Casa_cumum 1.054
+    3300106: Casa_cumum 1.055
+    3300108: Casa_cumum 1.056
+    3300110: Casa_cumum 1.057
+    3300112: Casa_cumum 1.058
+    3300114: Casa_cumum 1.059
+    3300116: Casa_cumum 1.060
+    3300118: Casa_cumum 1.061
+    3300120: Casa_cumum 1.062
+    3300122: Casa_cumum 1.063
+    3300124: Casa_cumum 1.064
+    3300126: Casa_cumum 1.065
+    3300128: Casa_cumum 1.066
+    3300130: Casa_cumum 1.067
+    3300132: Casa_cumum 1.068
+    3300134: Casa_cumum 1.069
+    3300136: Casa_cumum 1.070
+    3300138: Casa_cumum 1.071
+    3300140: Casa_cumum 1.072
+    3300142: Casa_cumum 1.073
+    3300144: Casa_cumum 1.074
+    3300146: Casa_cumum 1.075
+    3300148: Casa_cumum 1.076
+    3300150: Casa_cumum 1.077
+    3300152: Casa_cumum 1.078
+    3300154: Casa_cumum 1.079
+    3300156: Casa_cumum 1.080
+    3300158: Casa_cumum 1.081
+    3300160: Casa_cumum 1.082
+    3300162: Casa_cumum 1.085
+    3300164: Casa_cumum 1.086
+    3300166: Casa_cumum 1.087
+    3300168: Casa_cumum 1.088
+    3300170: Casa_cumum 1.089
+    3300172: Casa_cumum 1.090
+    3300174: Casa_cumum 1.091
+    3300176: Casa_cumum 1.092
+    3300178: Casa_cumum 1.093
+    3300180: Casa_cumum 1.094
+    3300182: Casa_cumum 1.095
+    3300184: Casa_cumum 1.096
+    3300186: Casa_cumum 1.097
+    3300188: Casa_cumum 1.098
+    3300190: Casa_cumum 1.099
+    3300192: Casa_cumum 1.100
+    3300194: Casa_cumum 1.101
+    3300196: Casa_cumum 1.102
+    3300198: Casa_cumum 1.103
+    3300200: Casa_cumum 1.104
+    3300202: Casa_cumum 1.105
+    3300204: Casa_cumum 1.106
+    3300206: Casa_cumum 1.107
+    3300208: Casa_cumum 1.112
+    3300210: Casa_cumum 1.113
+    3300212: Casa_cumum 1.114
+    3300214: Casa_cumum 1.115
+    3300216: Casa_cumum 1.116
+    3300218: Casa_cumum 1.117
+    3300220: Casa_cumum 1.118
+    3300222: Casa_cumum 1.119
+    3300224: Casa_cumum 1.120
+    3300226: Casa_cumum 1.121
+    3300228: Casa_cumum 1.122
+    3300230: Casa_cumum 1.123
+    3300232: Casa_cumum 1.124
+    3300234: Casa_cumum 1.125
+    3300236: Casa_cumum 1.126
+    3300238: Casa_cumum 1.127
+    3300240: Casa_cumum 1.128
+    3300242: Casa_cumum 1.129
+    3300244: Casa_cumum 1.130
+    3300246: Casa_cumum 1.131
+    3300248: Casa_cumum 1.132
+    3300250: Casa_cumum 1.133
+    3300252: Casa_cumum 1.134
+    3300254: Casa_cumum 1.135
+    3300256: Casa_cumum 1.136
+    3300258: Casa_cumum 1.137
+    3300260: Casa_cumum 1.138
+    3300262: Casa_cumum 1.140
+    3300264: Casa_cumum 1.141
+    3300266: Casa_cumum 1.142
+    3300268: Casa_cumum 1.143
+    3300270: Casa_cumum 1.226
+    3300272: Casa_cumum 1.227
+    4300000: Casa_cumum 1
+    4300002: Casa_cumum 1.227
+    4300004: Casa_cumum 1.226
+    4300006: Casa_cumum 1.143
+    4300008: Casa_cumum 1.142
+    4300010: Casa_cumum 1.141
+    4300012: Casa_cumum 1.140
+    4300014: Casa_cumum 1.138
+    4300016: Casa_cumum 1.137
+    4300018: Casa_cumum 1.136
+    4300020: Casa_cumum 1.135
+    4300022: Casa_cumum 1.134
+    4300024: Casa_cumum 1.133
+    4300026: Casa_cumum 1.132
+    4300028: Casa_cumum 1.131
+    4300030: Casa_cumum 1.130
+    4300032: Casa_cumum 1.129
+    4300034: Casa_cumum 1.128
+    4300036: Casa_cumum 1.127
+    4300038: Casa_cumum 1.126
+    4300040: Casa_cumum 1.125
+    4300042: Casa_cumum 1.124
+    4300044: Casa_cumum 1.123
+    4300046: Casa_cumum 1.122
+    4300048: Casa_cumum 1.121
+    4300050: Casa_cumum 1.120
+    4300052: Casa_cumum 1.119
+    4300054: Casa_cumum 1.118
+    4300056: Casa_cumum 1.117
+    4300058: Casa_cumum 1.116
+    4300060: Casa_cumum 1.115
+    4300062: Casa_cumum 1.114
+    4300064: Casa_cumum 1.113
+    4300066: Casa_cumum 1.112
+    4300068: Casa_cumum 1.107
+    4300070: Casa_cumum 1.106
+    4300072: Casa_cumum 1.105
+    4300074: Casa_cumum 1.104
+    4300076: Casa_cumum 1.103
+    4300078: Casa_cumum 1.102
+    4300080: Casa_cumum 1.101
+    4300082: Casa_cumum 1.100
+    4300084: Casa_cumum 1.099
+    4300086: Casa_cumum 1.098
+    4300088: Casa_cumum 1.097
+    4300090: Casa_cumum 1.096
+    4300092: Casa_cumum 1.095
+    4300094: Casa_cumum 1.094
+    4300096: Casa_cumum 1.093
+    4300098: Casa_cumum 1.092
+    4300100: Casa_cumum 1.091
+    4300102: Casa_cumum 1.090
+    4300104: Casa_cumum 1.089
+    4300106: Casa_cumum 1.088
+    4300108: Casa_cumum 1.087
+    4300110: Casa_cumum 1.086
+    4300112: Casa_cumum 1.085
+    4300114: Casa_cumum 1.082
+    4300116: Casa_cumum 1.081
+    4300118: Casa_cumum 1.080
+    4300120: Casa_cumum 1.079
+    4300122: Casa_cumum 1.078
+    4300124: Casa_cumum 1.077
+    4300126: Casa_cumum 1.076
+    4300128: Casa_cumum 1.075
+    4300130: Casa_cumum 1.074
+    4300132: Casa_cumum 1.073
+    4300134: Casa_cumum 1.072
+    4300136: Casa_cumum 1.071
+    4300138: Casa_cumum 1.070
+    4300140: Casa_cumum 1.069
+    4300142: Casa_cumum 1.068
+    4300144: Casa_cumum 1.067
+    4300146: Casa_cumum 1.066
+    4300148: Casa_cumum 1.065
+    4300150: Casa_cumum 1.064
+    4300152: Casa_cumum 1.063
+    4300154: Casa_cumum 1.062
+    4300156: Casa_cumum 1.061
+    4300158: Casa_cumum 1.060
+    4300160: Casa_cumum 1.059
+    4300162: Casa_cumum 1.058
+    4300164: Casa_cumum 1.057
+    4300166: Casa_cumum 1.056
+    4300168: Casa_cumum 1.055
+    4300170: Casa_cumum 1.054
+    4300172: Casa_cumum 1.053
+    4300174: Casa_cumum 1.052
+    4300176: Casa_cumum 1.051
+    4300178: Casa_cumum 1.050
+    4300180: Casa_cumum 1.049
+    4300182: Casa_cumum 1.048
+    4300184: Casa_cumum 1.047
+    4300186: Casa_cumum 1.046
+    4300188: Casa_cumum 1.045
+    4300190: Casa_cumum 1.044
+    4300192: Casa_cumum 1.043
+    4300194: Casa_cumum 1.042
+    4300196: Casa_cumum 1.041
+    4300198: Casa_cumum 1.040
+    4300200: Casa_cumum 1.039
+    4300202: Casa_cumum 1.038
+    4300204: Casa_cumum 1.037
+    4300206: Casa_cumum 1.036
+    4300208: Casa_cumum 1.035
+    4300210: Casa_cumum 1.034
+    4300212: Casa_cumum 1.033
+    4300214: Casa_cumum 1.032
+    4300216: Casa_cumum 1.031
+    4300218: Casa_cumum 1.030
+    4300220: Casa_cumum 1.029
+    4300222: Casa_cumum 1.028
+    4300224: Casa_cumum 1.027
+    4300226: Casa_cumum 1.026
+    4300228: Casa_cumum 1.025
+    4300230: Casa_cumum 1.024
+    4300232: Casa_cumum 1.023
+    4300234: Casa_cumum 1.022
+    4300236: Casa_cumum 1.021
+    4300238: Casa_cumum 1.020
+    4300240: Casa_cumum 1.019
+    4300242: Casa_cumum 1.018
+    4300244: Casa_cumum 1.017
+    4300246: Casa_cumum 1.016
+    4300248: Casa_cumum 1.015
+    4300250: Casa_cumum 1.014
+    4300252: Casa_cumum 1.013
+    4300254: Casa_cumum 1.012
+    4300256: Casa_cumum 1.011
+    4300258: Casa_cumum 1.010
+    4300260: Casa_cumum 1.009
+    4300262: Casa_cumum 1.008
+    4300264: Casa_cumum 1.007
+    4300266: Casa_cumum 1.006
+    4300268: Casa_cumum 1.005
+    4300270: Casa_cumum 1.004
+    4300272: Casa_cumum 1.003
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

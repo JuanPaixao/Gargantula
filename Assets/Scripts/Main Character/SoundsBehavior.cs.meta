@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fe58264864f9fdc49897ce43426f6b47
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - strong_attack: {fileID: 8300000, guid: 3f4e9cf3da2c3a744b0952f316208ba0, type: 3}
+  - weak_attack_1: {fileID: 8300000, guid: df0e09e781611f444b1ab0b042e7f4e2, type: 3}
+  - weak_attack_2: {fileID: 8300000, guid: 45694e9c2c0279440a602cdb92a7440e, type: 3}
+  - weak_attack_3: {fileID: 8300000, guid: ea22043c32e96b1498d179d677e830da, type: 3}
+  - damaged_1: {fileID: 8300000, guid: 3e75f5315315d014d82bfc695ad898c9, type: 3}
+  - damaged_2: {fileID: 8300000, guid: 9945b293a0461ae41a29bdcb4e280839, type: 3}
+  - damaged_3: {instanceID: 0}
+  - walk_r: {fileID: 8300000, guid: ebbc4b8f39c548040a6aa1a372bba627, type: 3}
+  - walk_l: {fileID: 8300000, guid: 710c7539d18ec944d8d1e929cc3c35eb, type: 3}
+  - jump: {fileID: 8300000, guid: 724eb68240fff85418303c6b23feb3a3, type: 3}
+  - death: {fileID: 8300000, guid: b06dbb5dabf56e54b937bf94830f23d0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

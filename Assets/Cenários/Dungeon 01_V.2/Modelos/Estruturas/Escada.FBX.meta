@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: 9293fb8ca8d9ca543b54b79af4020b68
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box84.001
+    100002: Box84.009
+    100004: ChamferBox222
+    100006: ChamferBox306
+    100008: //RootNode
+    100010: "\u5BF9\u8C6101"
+    100012: "\u5BF9\u8C6102"
+    100014: "\u5BF9\u8C6103"
+    100016: "\u5BF9\u8C6105"
+    100018: "\u5BF9\u8C6107"
+    400000: Box84.001
+    400002: Box84.009
+    400004: ChamferBox222
+    400006: ChamferBox306
+    400008: //RootNode
+    400010: "\u5BF9\u8C6101"
+    400012: "\u5BF9\u8C6102"
+    400014: "\u5BF9\u8C6103"
+    400016: "\u5BF9\u8C6105"
+    400018: "\u5BF9\u8C6107"
+    2100000: 01 - D312
+    2300000: Box84.001
+    2300002: Box84.009
+    2300004: ChamferBox222
+    2300006: ChamferBox306
+    2300008: "\u5BF9\u8C6101"
+    2300010: "\u5BF9\u8C6102"
+    2300012: "\u5BF9\u8C6103"
+    2300014: "\u5BF9\u8C6105"
+    2300016: "\u5BF9\u8C6107"
+    3300000: Box84.001
+    3300002: Box84.009
+    3300004: ChamferBox222
+    3300006: ChamferBox306
+    3300008: "\u5BF9\u8C6101"
+    3300010: "\u5BF9\u8C6102"
+    3300012: "\u5BF9\u8C6103"
+    3300014: "\u5BF9\u8C6105"
+    3300016: "\u5BF9\u8C6107"
+    4300000: Box84.009
+    4300002: Box84.001
+    4300004: "\u5BF9\u8C6103"
+    4300006: ChamferBox306
+    4300008: "\u5BF9\u8C6101"
+    4300010: "\u5BF9\u8C6105"
+    4300012: "\u5BF9\u8C6102"
+    4300014: "\u5BF9\u8C6107"
+    4300016: ChamferBox222
+    7400000: "\u5BF9\u8C6103|Birth 01|Take 001|BaseLayer"
+    7400002: "\u5BF9\u8C6103|Box01|Take 001|BaseLayer"
+    7400004: "\u5BF9\u8C6103|Box100|Take 001|BaseLayer"
+    7400006: "\u5BF9\u8C6103|Box101|Take 001|BaseLayer"
+    7400008: "\u5BF9\u8C6103|Box102|Take 001|BaseLayer"
+    7400010: "\u5BF9\u8C6103|Box103|Take 001|BaseLayer"
+    7400012: "\u5BF9\u8C6103|Box104|Take 001|BaseLayer"
+    7400014: "\u5BF9\u8C6103|Box30|Take 001|BaseLayer"
+    7400016: "\u5BF9\u8C6103|Box43|Take 001|BaseLayer"
+    7400018: "\u5BF9\u8C6103|Box45|Take 001|BaseLayer"
+    7400020: "\u5BF9\u8C6103|Box61|Take 001|BaseLayer"
+    7400022: "\u5BF9\u8C6103|Box62|Take 001|BaseLayer"
+    7400024: "\u5BF9\u8C6103|Box64|Take 001|BaseLayer"
+    7400026: "\u5BF9\u8C6103|Box70|Take 001|BaseLayer"
+    7400028: "\u5BF9\u8C6103|Box71|Take 001|BaseLayer"
+    7400030: "\u5BF9\u8C6103|Box72|Take 001|BaseLayer"
+    7400032: "\u5BF9\u8C6103|Box73|Take 001|BaseLayer"
+    7400034: "\u5BF9\u8C6103|Box75|Take 001|BaseLayer"
+    7400036: "\u5BF9\u8C6103|Box76|Take 001|BaseLayer"
+    7400038: "\u5BF9\u8C6103|Box78|Take 001|BaseLayer"
+    7400040: "\u5BF9\u8C6103|Box79|Take 001|BaseLayer"
+    7400042: "\u5BF9\u8C6103|Box80|Take 001|BaseLayer"
+    7400044: "\u5BF9\u8C6103|Box81|Take 001|BaseLayer"
+    7400046: "\u5BF9\u8C6103|Box82|Take 001|BaseLayer"
+    7400048: "\u5BF9\u8C6103|Box83|Take 001|BaseLayer"
+    7400050: "\u5BF9\u8C6103|Box84|Take 001|BaseLayer"
+    7400052: "\u5BF9\u8C6103|Box85|Take 001|BaseLayer"
+    7400054: "\u5BF9\u8C6103|Box88|Take 001|BaseLayer"
+    7400056: "\u5BF9\u8C6103|Box89|Take 001|BaseLayer"
+    7400058: "\u5BF9\u8C6103|Box90|Take 001|BaseLayer"
+    7400060: "\u5BF9\u8C6103|Box91|Take 001|BaseLayer"
+    7400062: "\u5BF9\u8C6103|Box92|Take 001|BaseLayer"
+    7400064: "\u5BF9\u8C6103|Box93|Take 001|BaseLayer"
+    7400066: "\u5BF9\u8C6103|Box94|Take 001|BaseLayer"
+    7400068: "\u5BF9\u8C6103|Box95|Take 001|BaseLayer"
+    7400070: "\u5BF9\u8C6103|Box96|Take 001|BaseLayer"
+    7400072: "\u5BF9\u8C6103|Box97|Take 001|BaseLayer"
+    7400074: "\u5BF9\u8C6103|Box98|Take 001|BaseLayer"
+    7400076: "\u5BF9\u8C6103|Box99|Take 001|BaseLayer"
+    7400078: "\u5BF9\u8C6103|Camera03.Target|Take 001|BaseLayer"
+    7400080: "\u5BF9\u8C6103|Camera03|Take 001|BaseLayer"
+    7400082: "\u5BF9\u8C6103|ChamferBox174|Take 001|BaseLayer"
+    7400084: "\u5BF9\u8C6103|ChamferBox221|Take 001|BaseLayer"
+    7400086: "\u5BF9\u8C6103|ChamferBox222|Take 001|BaseLayer"
+    7400088: "\u5BF9\u8C6103|ChamferBox306|Take 001|BaseLayer"
+    7400090: "\u5BF9\u8C6103|ChamferBox307|Take 001|BaseLayer"
+    7400092: "\u5BF9\u8C6103|ChamferBox308|Take 001|BaseLayer"
+    7400094: "\u5BF9\u8C6103|Cone110|Take 001|BaseLayer"
+    7400096: "\u5BF9\u8C6103|Cone124|Take 001|BaseLayer"
+    7400098: "\u5BF9\u8C6103|Cone96|Take 001|BaseLayer"
+    7400100: "\u5BF9\u8C6103|Display 01|Take 001|BaseLayer"
+    7400102: "\u5BF9\u8C6103|Display 02|Take 001|BaseLayer"
+    7400104: "\u5BF9\u8C6103|Event 01|Take 001|BaseLayer"
+    7400106: "\u5BF9\u8C6103|Event 02|Take 001|BaseLayer"
+    7400108: "\u5BF9\u8C6103|Particle View 01|Take 001|BaseLayer"
+    7400110: "\u5BF9\u8C6103|Position Icon 01|Take 001|BaseLayer"
+    7400112: "\u5BF9\u8C6103|Render 01|Take 001|BaseLayer"
+    7400114: "\u5BF9\u8C6103|Rotation 01|Take 001|BaseLayer"
+    7400116: "\u5BF9\u8C6103|Shape 01|Take 001|BaseLayer"
+    7400118: "\u5BF9\u8C6103|Speed 01|Take 001|BaseLayer"
+    7400120: "\u5BF9\u8C6103|yd_014_895|Take 001|BaseLayer"
+    7400122: "\u5BF9\u8C6103|yd_014_896|Take 001|BaseLayer"
+    7400124: "\u5BF9\u8C6103|yd_014_897|Take 001|BaseLayer"
+    7400126: "\u5BF9\u8C6103|\u4E3B\u5149.Target|Take 001|BaseLayer"
+    7400128: "\u5BF9\u8C6103|\u4E3B\u5149|Take 001|BaseLayer"
+    7400130: "\u5BF9\u8C6103|\u5929\u5149|Take 001|BaseLayer"
+    7400132: "\u5BF9\u8C6103|\u5BF9\u8C6101|Take 001|BaseLayer"
+    7400134: "\u5BF9\u8C6103|\u5BF9\u8C6102|Take 001|BaseLayer"
+    7400136: "\u5BF9\u8C6103|\u5BF9\u8C6103|Take 001|BaseLayer"
+    7400138: "\u5BF9\u8C6103|\u5BF9\u8C6104|Take 001|BaseLayer"
+    7400140: "\u5BF9\u8C6103|\u5BF9\u8C6105|Take 001|BaseLayer"
+    7400142: "\u5BF9\u8C6103|\u5BF9\u8C6106|Take 001|BaseLayer"
+    7400144: "\u5BF9\u8C6103|\u5BF9\u8C6107|Take 001|BaseLayer"
+    7400146: "\u5BF9\u8C6103|\u5BF9\u8C6108|Take 001|BaseLayer"
+    7400148: "\u5BF9\u8C6103|\u5BF9\u8C6111|Take 001|BaseLayer"
+    7400150: "\u5BF9\u8C6103|\u5BF9\u8C6112|Take 001|BaseLayer"
+    7400152: "\u5BF9\u8C6103|\u8865\u5149.Target|Take 001|BaseLayer"
+    7400154: "\u5BF9\u8C6103|\u8865\u5149|Take 001|BaseLayer"
+    7400156: ChamferBox306|Birth 01|Take 001|BaseLayer
+    7400158: ChamferBox306|Box01|Take 001|BaseLayer
+    7400160: ChamferBox306|Box100|Take 001|BaseLayer
+    7400162: ChamferBox306|Box101|Take 001|BaseLayer
+    7400164: ChamferBox306|Box102|Take 001|BaseLayer
+    7400166: ChamferBox306|Box103|Take 001|BaseLayer
+    7400168: ChamferBox306|Box104|Take 001|BaseLayer
+    7400170: ChamferBox306|Box30|Take 001|BaseLayer
+    7400172: ChamferBox306|Box43|Take 001|BaseLayer
+    7400174: ChamferBox306|Box45|Take 001|BaseLayer
+    7400176: ChamferBox306|Box61|Take 001|BaseLayer
+    7400178: ChamferBox306|Box62|Take 001|BaseLayer
+    7400180: ChamferBox306|Box64|Take 001|BaseLayer
+    7400182: ChamferBox306|Box70|Take 001|BaseLayer
+    7400184: ChamferBox306|Box71|Take 001|BaseLayer
+    7400186: ChamferBox306|Box72|Take 001|BaseLayer
+    7400188: ChamferBox306|Box73|Take 001|BaseLayer
+    7400190: ChamferBox306|Box75|Take 001|BaseLayer
+    7400192: ChamferBox306|Box76|Take 001|BaseLayer
+    7400194: ChamferBox306|Box78|Take 001|BaseLayer
+    7400196: ChamferBox306|Box79|Take 001|BaseLayer
+    7400198: ChamferBox306|Box80|Take 001|BaseLayer
+    7400200: ChamferBox306|Box81|Take 001|BaseLayer
+    7400202: ChamferBox306|Box82|Take 001|BaseLayer
+    7400204: ChamferBox306|Box83|Take 001|BaseLayer
+    7400206: ChamferBox306|Box84|Take 001|BaseLayer
+    7400208: ChamferBox306|Box85|Take 001|BaseLayer
+    7400210: ChamferBox306|Box88|Take 001|BaseLayer
+    7400212: ChamferBox306|Box89|Take 001|BaseLayer
+    7400214: ChamferBox306|Box90|Take 001|BaseLayer
+    7400216: ChamferBox306|Box91|Take 001|BaseLayer
+    7400218: ChamferBox306|Box92|Take 001|BaseLayer
+    7400220: ChamferBox306|Box93|Take 001|BaseLayer
+    7400222: ChamferBox306|Box94|Take 001|BaseLayer
+    7400224: ChamferBox306|Box95|Take 001|BaseLayer
+    7400226: ChamferBox306|Box96|Take 001|BaseLayer
+    7400228: ChamferBox306|Box97|Take 001|BaseLayer
+    7400230: ChamferBox306|Box98|Take 001|BaseLayer
+    7400232: ChamferBox306|Box99|Take 001|BaseLayer
+    7400234: ChamferBox306|Camera03.Target|Take 001|BaseLayer
+    7400236: ChamferBox306|Camera03|Take 001|BaseLayer
+    7400238: ChamferBox306|ChamferBox174|Take 001|BaseLayer
+    7400240: ChamferBox306|ChamferBox221|Take 001|BaseLayer
+    7400242: ChamferBox306|ChamferBox222|Take 001|BaseLayer
+    7400244: ChamferBox306|ChamferBox306|Take 001|BaseLayer
+    7400246: ChamferBox306|ChamferBox307|Take 001|BaseLayer
+    7400248: ChamferBox306|ChamferBox308|Take 001|BaseLayer
+    7400250: ChamferBox306|Cone110|Take 001|BaseLayer
+    7400252: ChamferBox306|Cone124|Take 001|BaseLayer
+    7400254: ChamferBox306|Cone96|Take 001|BaseLayer
+    7400256: ChamferBox306|Display 01|Take 001|BaseLayer
+    7400258: ChamferBox306|Display 02|Take 001|BaseLayer
+    7400260: ChamferBox306|Event 01|Take 001|BaseLayer
+    7400262: ChamferBox306|Event 02|Take 001|BaseLayer
+    7400264: ChamferBox306|Particle View 01|Take 001|BaseLayer
+    7400266: ChamferBox306|Position Icon 01|Take 001|BaseLayer
+    7400268: ChamferBox306|Render 01|Take 001|BaseLayer
+    7400270: ChamferBox306|Rotation 01|Take 001|BaseLayer
+    7400272: ChamferBox306|Shape 01|Take 001|BaseLayer
+    7400274: ChamferBox306|Speed 01|Take 001|BaseLayer
+    7400276: ChamferBox306|yd_014_895|Take 001|BaseLayer
+    7400278: ChamferBox306|yd_014_896|Take 001|BaseLayer
+    7400280: ChamferBox306|yd_014_897|Take 001|BaseLayer
+    7400282: "ChamferBox306|\u4E3B\u5149.Target|Take 001|BaseLayer"
+    7400284: "ChamferBox306|\u4E3B\u5149|Take 001|BaseLayer"
+    7400286: "ChamferBox306|\u5929\u5149|Take 001|BaseLayer"
+    7400288: "ChamferBox306|\u5BF9\u8C6101|Take 001|BaseLayer"
+    7400290: "ChamferBox306|\u5BF9\u8C6102|Take 001|BaseLayer"
+    7400292: "ChamferBox306|\u5BF9\u8C6103|Take 001|BaseLayer"
+    7400294: "ChamferBox306|\u5BF9\u8C6104|Take 001|BaseLayer"
+    7400296: "ChamferBox306|\u5BF9\u8C6105|Take 001|BaseLayer"
+    7400298: "ChamferBox306|\u5BF9\u8C6106|Take 001|BaseLayer"
+    7400300: "ChamferBox306|\u5BF9\u8C6107|Take 001|BaseLayer"
+    7400302: "ChamferBox306|\u5BF9\u8C6108|Take 001|BaseLayer"
+    7400304: "ChamferBox306|\u5BF9\u8C6111|Take 001|BaseLayer"
+    7400306: "ChamferBox306|\u5BF9\u8C6112|Take 001|BaseLayer"
+    7400308: "ChamferBox306|\u8865\u5149.Target|Take 001|BaseLayer"
+    7400310: "ChamferBox306|\u8865\u5149|Take 001|BaseLayer"
+    7400312: "\u5BF9\u8C6101|Birth 01|Take 001|BaseLayer"
+    7400314: "\u5BF9\u8C6101|Box01|Take 001|BaseLayer"
+    7400316: "\u5BF9\u8C6101|Box100|Take 001|BaseLayer"
+    7400318: "\u5BF9\u8C6101|Box101|Take 001|BaseLayer"
+    7400320: "\u5BF9\u8C6101|Box102|Take 001|BaseLayer"
+    7400322: "\u5BF9\u8C6101|Box103|Take 001|BaseLayer"
+    7400324: "\u5BF9\u8C6101|Box104|Take 001|BaseLayer"
+    7400326: "\u5BF9\u8C6101|Box30|Take 001|BaseLayer"
+    7400328: "\u5BF9\u8C6101|Box43|Take 001|BaseLayer"
+    7400330: "\u5BF9\u8C6101|Box45|Take 001|BaseLayer"
+    7400332: "\u5BF9\u8C6101|Box61|Take 001|BaseLayer"
+    7400334: "\u5BF9\u8C6101|Box62|Take 001|BaseLayer"
+    7400336: "\u5BF9\u8C6101|Box64|Take 001|BaseLayer"
+    7400338: "\u5BF9\u8C6101|Box70|Take 001|BaseLayer"
+    7400340: "\u5BF9\u8C6101|Box71|Take 001|BaseLayer"
+    7400342: "\u5BF9\u8C6101|Box72|Take 001|BaseLayer"
+    7400344: "\u5BF9\u8C6101|Box73|Take 001|BaseLayer"
+    7400346: "\u5BF9\u8C6101|Box75|Take 001|BaseLayer"
+    7400348: "\u5BF9\u8C6101|Box76|Take 001|BaseLayer"
+    7400350: "\u5BF9\u8C6101|Box78|Take 001|BaseLayer"
+    7400352: "\u5BF9\u8C6101|Box79|Take 001|BaseLayer"
+    7400354: "\u5BF9\u8C6101|Box80|Take 001|BaseLayer"
+    7400356: "\u5BF9\u8C6101|Box81|Take 001|BaseLayer"
+    7400358: "\u5BF9\u8C6101|Box82|Take 001|BaseLayer"
+    7400360: "\u5BF9\u8C6101|Box83|Take 001|BaseLayer"
+    7400362: "\u5BF9\u8C6101|Box84|Take 001|BaseLayer"
+    7400364: "\u5BF9\u8C6101|Box85|Take 001|BaseLayer"
+    7400366: "\u5BF9\u8C6101|Box88|Take 001|BaseLayer"
+    7400368: "\u5BF9\u8C6101|Box89|Take 001|BaseLayer"
+    7400370: "\u5BF9\u8C6101|Box90|Take 001|BaseLayer"
+    7400372: "\u5BF9\u8C6101|Box91|Take 001|BaseLayer"
+    7400374: "\u5BF9\u8C6101|Box92|Take 001|BaseLayer"
+    7400376: "\u5BF9\u8C6101|Box93|Take 001|BaseLayer"
+    7400378: "\u5BF9\u8C6101|Box94|Take 001|BaseLayer"
+    7400380: "\u5BF9\u8C6101|Box95|Take 001|BaseLayer"
+    7400382: "\u5BF9\u8C6101|Box96|Take 001|BaseLayer"
+    7400384: "\u5BF9\u8C6101|Box97|Take 001|BaseLayer"
+    7400386: "\u5BF9\u8C6101|Box98|Take 001|BaseLayer"
+    7400388: "\u5BF9\u8C6101|Box99|Take 001|BaseLayer"
+    7400390: "\u5BF9\u8C6101|Camera03.Target|Take 001|BaseLayer"
+    7400392: "\u5BF9\u8C6101|Camera03|Take 001|BaseLayer"
+    7400394: "\u5BF9\u8C6101|ChamferBox174|Take 001|BaseLayer"
+    7400396: "\u5BF9\u8C6101|ChamferBox221|Take 001|BaseLayer"
+    7400398: "\u5BF9\u8C6101|ChamferBox222|Take 001|BaseLayer"
+    7400400: "\u5BF9\u8C6101|ChamferBox306|Take 001|BaseLayer"
+    7400402: "\u5BF9\u8C6101|ChamferBox307|Take 001|BaseLayer"
+    7400404: "\u5BF9\u8C6101|ChamferBox308|Take 001|BaseLayer"
+    7400406: "\u5BF9\u8C6101|Cone110|Take 001|BaseLayer"
+    7400408: "\u5BF9\u8C6101|Cone124|Take 001|BaseLayer"
+    7400410: "\u5BF9\u8C6101|Cone96|Take 001|BaseLayer"
+    7400412: "\u5BF9\u8C6101|Display 01|Take 001|BaseLayer"
+    7400414: "\u5BF9\u8C6101|Display 02|Take 001|BaseLayer"
+    7400416: "\u5BF9\u8C6101|Event 01|Take 001|BaseLayer"
+    7400418: "\u5BF9\u8C6101|Event 02|Take 001|BaseLayer"
+    7400420: "\u5BF9\u8C6101|Particle View 01|Take 001|BaseLayer"
+    7400422: "\u5BF9\u8C6101|Position Icon 01|Take 001|BaseLayer"
+    7400424: "\u5BF9\u8C6101|Render 01|Take 001|BaseLayer"
+    7400426: "\u5BF9\u8C6101|Rotation 01|Take 001|BaseLayer"
+    7400428: "\u5BF9\u8C6101|Shape 01|Take 001|BaseLayer"
+    7400430: "\u5BF9\u8C6101|Speed 01|Take 001|BaseLayer"
+    7400432: "\u5BF9\u8C6101|yd_014_895|Take 001|BaseLayer"
+    7400434: "\u5BF9\u8C6101|yd_014_896|Take 001|BaseLayer"
+    7400436: "\u5BF9\u8C6101|yd_014_897|Take 001|BaseLayer"
+    7400438: "\u5BF9\u8C6101|\u4E3B\u5149.Target|Take 001|BaseLayer"
+    7400440: "\u5BF9\u8C6101|\u4E3B\u5149|Take 001|BaseLayer"
+    7400442: "\u5BF9\u8C6101|\u5929\u5149|Take 001|BaseLayer"
+    7400444: "\u5BF9\u8C6101|\u5BF9\u8C6101|Take 001|BaseLayer"
+    7400446: "\u5BF9\u8C6101|\u5BF9\u8C6102|Take 001|BaseLayer"
+    7400448: "\u5BF9\u8C6101|\u5BF9\u8C6103|Take 001|BaseLayer"
+    7400450: "\u5BF9\u8C6101|\u5BF9\u8C6104|Take 001|BaseLayer"
+    7400452: "\u5BF9\u8C6101|\u5BF9\u8C6105|Take 001|BaseLayer"
+    7400454: "\u5BF9\u8C6101|\u5BF9\u8C6106|Take 001|BaseLayer"
+    7400456: "\u5BF9\u8C6101|\u5BF9\u8C6107|Take 001|BaseLayer"
+    7400458: "\u5BF9\u8C6101|\u5BF9\u8C6108|Take 001|BaseLayer"
+    7400460: "\u5BF9\u8C6101|\u5BF9\u8C6111|Take 001|BaseLayer"
+    7400462: "\u5BF9\u8C6101|\u5BF9\u8C6112|Take 001|BaseLayer"
+    7400464: "\u5BF9\u8C6101|\u8865\u5149.Target|Take 001|BaseLayer"
+    7400466: "\u5BF9\u8C6101|\u8865\u5149|Take 001|BaseLayer"
+    7400468: "\u5BF9\u8C6105|Birth 01|Take 001|BaseLayer"
+    7400470: "\u5BF9\u8C6105|Box01|Take 001|BaseLayer"
+    7400472: "\u5BF9\u8C6105|Box100|Take 001|BaseLayer"
+    7400474: "\u5BF9\u8C6105|Box101|Take 001|BaseLayer"
+    7400476: "\u5BF9\u8C6105|Box102|Take 001|BaseLayer"
+    7400478: "\u5BF9\u8C6105|Box103|Take 001|BaseLayer"
+    7400480: "\u5BF9\u8C6105|Box104|Take 001|BaseLayer"
+    7400482: "\u5BF9\u8C6105|Box30|Take 001|BaseLayer"
+    7400484: "\u5BF9\u8C6105|Box43|Take 001|BaseLayer"
+    7400486: "\u5BF9\u8C6105|Box45|Take 001|BaseLayer"
+    7400488: "\u5BF9\u8C6105|Box61|Take 001|BaseLayer"
+    7400490: "\u5BF9\u8C6105|Box62|Take 001|BaseLayer"
+    7400492: "\u5BF9\u8C6105|Box64|Take 001|BaseLayer"
+    7400494: "\u5BF9\u8C6105|Box70|Take 001|BaseLayer"
+    7400496: "\u5BF9\u8C6105|Box71|Take 001|BaseLayer"
+    7400498: "\u5BF9\u8C6105|Box72|Take 001|BaseLayer"
+    7400500: "\u5BF9\u8C6105|Box73|Take 001|BaseLayer"
+    7400502: "\u5BF9\u8C6105|Box75|Take 001|BaseLayer"
+    7400504: "\u5BF9\u8C6105|Box76|Take 001|BaseLayer"
+    7400506: "\u5BF9\u8C6105|Box78|Take 001|BaseLayer"
+    7400508: "\u5BF9\u8C6105|Box79|Take 001|BaseLayer"
+    7400510: "\u5BF9\u8C6105|Box80|Take 001|BaseLayer"
+    7400512: "\u5BF9\u8C6105|Box81|Take 001|BaseLayer"
+    7400514: "\u5BF9\u8C6105|Box82|Take 001|BaseLayer"
+    7400516: "\u5BF9\u8C6105|Box83|Take 001|BaseLayer"
+    7400518: "\u5BF9\u8C6105|Box84|Take 001|BaseLayer"
+    7400520: "\u5BF9\u8C6105|Box85|Take 001|BaseLayer"
+    7400522: "\u5BF9\u8C6105|Box88|Take 001|BaseLayer"
+    7400524: "\u5BF9\u8C6105|Box89|Take 001|BaseLayer"
+    7400526: "\u5BF9\u8C6105|Box90|Take 001|BaseLayer"
+    7400528: "\u5BF9\u8C6105|Box91|Take 001|BaseLayer"
+    7400530: "\u5BF9\u8C6105|Box92|Take 001|BaseLayer"
+    7400532: "\u5BF9\u8C6105|Box93|Take 001|BaseLayer"
+    7400534: "\u5BF9\u8C6105|Box94|Take 001|BaseLayer"
+    7400536: "\u5BF9\u8C6105|Box95|Take 001|BaseLayer"
+    7400538: "\u5BF9\u8C6105|Box96|Take 001|BaseLayer"
+    7400540: "\u5BF9\u8C6105|Box97|Take 001|BaseLayer"
+    7400542: "\u5BF9\u8C6105|Box98|Take 001|BaseLayer"
+    7400544: "\u5BF9\u8C6105|Box99|Take 001|BaseLayer"
+    7400546: "\u5BF9\u8C6105|Camera03.Target|Take 001|BaseLayer"
+    7400548: "\u5BF9\u8C6105|Camera03|Take 001|BaseLayer"
+    7400550: "\u5BF9\u8C6105|ChamferBox174|Take 001|BaseLayer"
+    7400552: "\u5BF9\u8C6105|ChamferBox221|Take 001|BaseLayer"
+    7400554: "\u5BF9\u8C6105|ChamferBox222|Take 001|BaseLayer"
+    7400556: "\u5BF9\u8C6105|ChamferBox306|Take 001|BaseLayer"
+    7400558: "\u5BF9\u8C6105|ChamferBox307|Take 001|BaseLayer"
+    7400560: "\u5BF9\u8C6105|ChamferBox308|Take 001|BaseLayer"
+    7400562: "\u5BF9\u8C6105|Cone110|Take 001|BaseLayer"
+    7400564: "\u5BF9\u8C6105|Cone124|Take 001|BaseLayer"
+    7400566: "\u5BF9\u8C6105|Cone96|Take 001|BaseLayer"
+    7400568: "\u5BF9\u8C6105|Display 01|Take 001|BaseLayer"
+    7400570: "\u5BF9\u8C6105|Display 02|Take 001|BaseLayer"
+    7400572: "\u5BF9\u8C6105|Event 01|Take 001|BaseLayer"
+    7400574: "\u5BF9\u8C6105|Event 02|Take 001|BaseLayer"
+    7400576: "\u5BF9\u8C6105|Particle View 01|Take 001|BaseLayer"
+    7400578: "\u5BF9\u8C6105|Position Icon 01|Take 001|BaseLayer"
+    7400580: "\u5BF9\u8C6105|Render 01|Take 001|BaseLayer"
+    7400582: "\u5BF9\u8C6105|Rotation 01|Take 001|BaseLayer"
+    7400584: "\u5BF9\u8C6105|Shape 01|Take 001|BaseLayer"
+    7400586: "\u5BF9\u8C6105|Speed 01|Take 001|BaseLayer"
+    7400588: "\u5BF9\u8C6105|yd_014_895|Take 001|BaseLayer"
+    7400590: "\u5BF9\u8C6105|yd_014_896|Take 001|BaseLayer"
+    7400592: "\u5BF9\u8C6105|yd_014_897|Take 001|BaseLayer"
+    7400594: "\u5BF9\u8C6105|\u4E3B\u5149.Target|Take 001|BaseLayer"
+    7400596: "\u5BF9\u8C6105|\u4E3B\u5149|Take 001|BaseLayer"
+    7400598: "\u5BF9\u8C6105|\u5929\u5149|Take 001|BaseLayer"
+    7400600: "\u5BF9\u8C6105|\u5BF9\u8C6101|Take 001|BaseLayer"
+    7400602: "\u5BF9\u8C6105|\u5BF9\u8C6102|Take 001|BaseLayer"
+    7400604: "\u5BF9\u8C6105|\u5BF9\u8C6103|Take 001|BaseLayer"
+    7400606: "\u5BF9\u8C6105|\u5BF9\u8C6104|Take 001|BaseLayer"
+    7400608: "\u5BF9\u8C6105|\u5BF9\u8C6105|Take 001|BaseLayer"
+    7400610: "\u5BF9\u8C6105|\u5BF9\u8C6106|Take 001|BaseLayer"
+    7400612: "\u5BF9\u8C6105|\u5BF9\u8C6107|Take 001|BaseLayer"
+    7400614: "\u5BF9\u8C6105|\u5BF9\u8C6108|Take 001|BaseLayer"
+    7400616: "\u5BF9\u8C6105|\u5BF9\u8C6111|Take 001|BaseLayer"
+    7400618: "\u5BF9\u8C6105|\u5BF9\u8C6112|Take 001|BaseLayer"
+    7400620: "\u5BF9\u8C6105|\u8865\u5149.Target|Take 001|BaseLayer"
+    7400622: "\u5BF9\u8C6105|\u8865\u5149|Take 001|BaseLayer"
+    7400624: "\u5BF9\u8C6102|Birth 01|Take 001|BaseLayer"
+    7400626: "\u5BF9\u8C6102|Box01|Take 001|BaseLayer"
+    7400628: "\u5BF9\u8C6102|Box100|Take 001|BaseLayer"
+    7400630: "\u5BF9\u8C6102|Box101|Take 001|BaseLayer"
+    7400632: "\u5BF9\u8C6102|Box102|Take 001|BaseLayer"
+    7400634: "\u5BF9\u8C6102|Box103|Take 001|BaseLayer"
+    7400636: "\u5BF9\u8C6102|Box104|Take 001|BaseLayer"
+    7400638: "\u5BF9\u8C6102|Box30|Take 001|BaseLayer"
+    7400640: "\u5BF9\u8C6102|Box43|Take 001|BaseLayer"
+    7400642: "\u5BF9\u8C6102|Box45|Take 001|BaseLayer"
+    7400644: "\u5BF9\u8C6102|Box61|Take 001|BaseLayer"
+    7400646: "\u5BF9\u8C6102|Box62|Take 001|BaseLayer"
+    7400648: "\u5BF9\u8C6102|Box64|Take 001|BaseLayer"
+    7400650: "\u5BF9\u8C6102|Box70|Take 001|BaseLayer"
+    7400652: "\u5BF9\u8C6102|Box71|Take 001|BaseLayer"
+    7400654: "\u5BF9\u8C6102|Box72|Take 001|BaseLayer"
+    7400656: "\u5BF9\u8C6102|Box73|Take 001|BaseLayer"
+    7400658: "\u5BF9\u8C6102|Box75|Take 001|BaseLayer"
+    7400660: "\u5BF9\u8C6102|Box76|Take 001|BaseLayer"
+    7400662: "\u5BF9\u8C6102|Box78|Take 001|BaseLayer"
+    7400664: "\u5BF9\u8C6102|Box79|Take 001|BaseLayer"
+    7400666: "\u5BF9\u8C6102|Box80|Take 001|BaseLayer"
+    7400668: "\u5BF9\u8C6102|Box81|Take 001|BaseLayer"
+    7400670: "\u5BF9\u8C6102|Box82|Take 001|BaseLayer"
+    7400672: "\u5BF9\u8C6102|Box83|Take 001|BaseLayer"
+    7400674: "\u5BF9\u8C6102|Box84|Take 001|BaseLayer"
+    7400676: "\u5BF9\u8C6102|Box85|Take 001|BaseLayer"
+    7400678: "\u5BF9\u8C6102|Box88|Take 001|BaseLayer"
+    7400680: "\u5BF9\u8C6102|Box89|Take 001|BaseLayer"
+    7400682: "\u5BF9\u8C6102|Box90|Take 001|BaseLayer"
+    7400684: "\u5BF9\u8C6102|Box91|Take 001|BaseLayer"
+    7400686: "\u5BF9\u8C6102|Box92|Take 001|BaseLayer"
+    7400688: "\u5BF9\u8C6102|Box93|Take 001|BaseLayer"
+    7400690: "\u5BF9\u8C6102|Box94|Take 001|BaseLayer"
+    7400692: "\u5BF9\u8C6102|Box95|Take 001|BaseLayer"
+    7400694: "\u5BF9\u8C6102|Box96|Take 001|BaseLayer"
+    7400696: "\u5BF9\u8C6102|Box97|Take 001|BaseLayer"
+    7400698: "\u5BF9\u8C6102|Box98|Take 001|BaseLayer"
+    7400700: "\u5BF9\u8C6102|Box99|Take 001|BaseLayer"
+    7400702: "\u5BF9\u8C6102|Camera03.Target|Take 001|BaseLayer"
+    7400704: "\u5BF9\u8C6102|Camera03|Take 001|BaseLayer"
+    7400706: "\u5BF9\u8C6102|ChamferBox174|Take 001|BaseLayer"
+    7400708: "\u5BF9\u8C6102|ChamferBox221|Take 001|BaseLayer"
+    7400710: "\u5BF9\u8C6102|ChamferBox222|Take 001|BaseLayer"
+    7400712: "\u5BF9\u8C6102|ChamferBox306|Take 001|BaseLayer"
+    7400714: "\u5BF9\u8C6102|ChamferBox307|Take 001|BaseLayer"
+    7400716: "\u5BF9\u8C6102|ChamferBox308|Take 001|BaseLayer"
+    7400718: "\u5BF9\u8C6102|Cone110|Take 001|BaseLayer"
+    7400720: "\u5BF9\u8C6102|Cone124|Take 001|BaseLayer"
+    7400722: "\u5BF9\u8C6102|Cone96|Take 001|BaseLayer"
+    7400724: "\u5BF9\u8C6102|Display 01|Take 001|BaseLayer"
+    7400726: "\u5BF9\u8C6102|Display 02|Take 001|BaseLayer"
+    7400728: "\u5BF9\u8C6102|Event 01|Take 001|BaseLayer"
+    7400730: "\u5BF9\u8C6102|Event 02|Take 001|BaseLayer"
+    7400732: "\u5BF9\u8C6102|Particle View 01|Take 001|BaseLayer"
+    7400734: "\u5BF9\u8C6102|Position Icon 01|Take 001|BaseLayer"
+    7400736: "\u5BF9\u8C6102|Render 01|Take 001|BaseLayer"
+    7400738: "\u5BF9\u8C6102|Rotation 01|Take 001|BaseLayer"
+    7400740: "\u5BF9\u8C6102|Shape 01|Take 001|BaseLayer"
+    7400742: "\u5BF9\u8C6102|Speed 01|Take 001|BaseLayer"
+    7400744: "\u5BF9\u8C6102|yd_014_895|Take 001|BaseLayer"
+    7400746: "\u5BF9\u8C6102|yd_014_896|Take 001|BaseLayer"
+    7400748: "\u5BF9\u8C6102|yd_014_897|Take 001|BaseLayer"
+    7400750: "\u5BF9\u8C6102|\u4E3B\u5149.Target|Take 001|BaseLayer"
+    7400752: "\u5BF9\u8C6102|\u4E3B\u5149|Take 001|BaseLayer"
+    7400754: "\u5BF9\u8C6102|\u5929\u5149|Take 001|BaseLayer"
+    7400756: "\u5BF9\u8C6102|\u5BF9\u8C6101|Take 001|BaseLayer"
+    7400758: "\u5BF9\u8C6102|\u5BF9\u8C6102|Take 001|BaseLayer"
+    7400760: "\u5BF9\u8C6102|\u5BF9\u8C6103|Take 001|BaseLayer"
+    7400762: "\u5BF9\u8C6102|\u5BF9\u8C6104|Take 001|BaseLayer"
+    7400764: "\u5BF9\u8C6102|\u5BF9\u8C6105|Take 001|BaseLayer"
+    7400766: "\u5BF9\u8C6102|\u5BF9\u8C6106|Take 001|BaseLayer"
+    7400768: "\u5BF9\u8C6102|\u5BF9\u8C6107|Take 001|BaseLayer"
+    7400770: "\u5BF9\u8C6102|\u5BF9\u8C6108|Take 001|BaseLayer"
+    7400772: "\u5BF9\u8C6102|\u5BF9\u8C6111|Take 001|BaseLayer"
+    7400774: "\u5BF9\u8C6102|\u5BF9\u8C6112|Take 001|BaseLayer"
+    7400776: "\u5BF9\u8C6102|\u8865\u5149.Target|Take 001|BaseLayer"
+    7400778: "\u5BF9\u8C6102|\u8865\u5149|Take 001|BaseLayer"
+    7400780: "\u5BF9\u8C6107|Birth 01|Take 001|BaseLayer"
+    7400782: "\u5BF9\u8C6107|Box01|Take 001|BaseLayer"
+    7400784: "\u5BF9\u8C6107|Box100|Take 001|BaseLayer"
+    7400786: "\u5BF9\u8C6107|Box101|Take 001|BaseLayer"
+    7400788: "\u5BF9\u8C6107|Box102|Take 001|BaseLayer"
+    7400790: "\u5BF9\u8C6107|Box103|Take 001|BaseLayer"
+    7400792: "\u5BF9\u8C6107|Box104|Take 001|BaseLayer"
+    7400794: "\u5BF9\u8C6107|Box30|Take 001|BaseLayer"
+    7400796: "\u5BF9\u8C6107|Box43|Take 001|BaseLayer"
+    7400798: "\u5BF9\u8C6107|Box45|Take 001|BaseLayer"
+    7400800: "\u5BF9\u8C6107|Box61|Take 001|BaseLayer"
+    7400802: "\u5BF9\u8C6107|Box62|Take 001|BaseLayer"
+    7400804: "\u5BF9\u8C6107|Box64|Take 001|BaseLayer"
+    7400806: "\u5BF9\u8C6107|Box70|Take 001|BaseLayer"
+    7400808: "\u5BF9\u8C6107|Box71|Take 001|BaseLayer"
+    7400810: "\u5BF9\u8C6107|Box72|Take 001|BaseLayer"
+    7400812: "\u5BF9\u8C6107|Box73|Take 001|BaseLayer"
+    7400814: "\u5BF9\u8C6107|Box75|Take 001|BaseLayer"
+    7400816: "\u5BF9\u8C6107|Box76|Take 001|BaseLayer"
+    7400818: "\u5BF9\u8C6107|Box78|Take 001|BaseLayer"
+    7400820: "\u5BF9\u8C6107|Box79|Take 001|BaseLayer"
+    7400822: "\u5BF9\u8C6107|Box80|Take 001|BaseLayer"
+    7400824: "\u5BF9\u8C6107|Box81|Take 001|BaseLayer"
+    7400826: "\u5BF9\u8C6107|Box82|Take 001|BaseLayer"
+    7400828: "\u5BF9\u8C6107|Box83|Take 001|BaseLayer"
+    7400830: "\u5BF9\u8C6107|Box84|Take 001|BaseLayer"
+    7400832: "\u5BF9\u8C6107|Box85|Take 001|BaseLayer"
+    7400834: "\u5BF9\u8C6107|Box88|Take 001|BaseLayer"
+    7400836: "\u5BF9\u8C6107|Box89|Take 001|BaseLayer"
+    7400838: "\u5BF9\u8C6107|Box90|Take 001|BaseLayer"
+    7400840: "\u5BF9\u8C6107|Box91|Take 001|BaseLayer"
+    7400842: "\u5BF9\u8C6107|Box92|Take 001|BaseLayer"
+    7400844: "\u5BF9\u8C6107|Box93|Take 001|BaseLayer"
+    7400846: "\u5BF9\u8C6107|Box94|Take 001|BaseLayer"
+    7400848: "\u5BF9\u8C6107|Box95|Take 001|BaseLayer"
+    7400850: "\u5BF9\u8C6107|Box96|Take 001|BaseLayer"
+    7400852: "\u5BF9\u8C6107|Box97|Take 001|BaseLayer"
+    7400854: "\u5BF9\u8C6107|Box98|Take 001|BaseLayer"
+    7400856: "\u5BF9\u8C6107|Box99|Take 001|BaseLayer"
+    7400858: "\u5BF9\u8C6107|Camera03.Target|Take 001|BaseLayer"
+    7400860: "\u5BF9\u8C6107|Camera03|Take 001|BaseLayer"
+    7400862: "\u5BF9\u8C6107|ChamferBox174|Take 001|BaseLayer"
+    7400864: "\u5BF9\u8C6107|ChamferBox221|Take 001|BaseLayer"
+    7400866: "\u5BF9\u8C6107|ChamferBox222|Take 001|BaseLayer"
+    7400868: "\u5BF9\u8C6107|ChamferBox306|Take 001|BaseLayer"
+    7400870: "\u5BF9\u8C6107|ChamferBox307|Take 001|BaseLayer"
+    7400872: "\u5BF9\u8C6107|ChamferBox308|Take 001|BaseLayer"
+    7400874: "\u5BF9\u8C6107|Cone110|Take 001|BaseLayer"
+    7400876: "\u5BF9\u8C6107|Cone124|Take 001|BaseLayer"
+    7400878: "\u5BF9\u8C6107|Cone96|Take 001|BaseLayer"
+    7400880: "\u5BF9\u8C6107|Display 01|Take 001|BaseLayer"
+    7400882: "\u5BF9\u8C6107|Display 02|Take 001|BaseLayer"
+    7400884: "\u5BF9\u8C6107|Event 01|Take 001|BaseLayer"
+    7400886: "\u5BF9\u8C6107|Event 02|Take 001|BaseLayer"
+    7400888: "\u5BF9\u8C6107|Particle View 01|Take 001|BaseLayer"
+    7400890: "\u5BF9\u8C6107|Position Icon 01|Take 001|BaseLayer"
+    7400892: "\u5BF9\u8C6107|Render 01|Take 001|BaseLayer"
+    7400894: "\u5BF9\u8C6107|Rotation 01|Take 001|BaseLayer"
+    7400896: "\u5BF9\u8C6107|Shape 01|Take 001|BaseLayer"
+    7400898: "\u5BF9\u8C6107|Speed 01|Take 001|BaseLayer"
+    7400900: "\u5BF9\u8C6107|yd_014_895|Take 001|BaseLayer"
+    7400902: "\u5BF9\u8C6107|yd_014_896|Take 001|BaseLayer"
+    7400904: "\u5BF9\u8C6107|yd_014_897|Take 001|BaseLayer"
+    7400906: "\u5BF9\u8C6107|\u4E3B\u5149.Target|Take 001|BaseLayer"
+    7400908: "\u5BF9\u8C6107|\u4E3B\u5149|Take 001|BaseLayer"
+    7400910: "\u5BF9\u8C6107|\u5929\u5149|Take 001|BaseLayer"
+    7400912: "\u5BF9\u8C6107|\u5BF9\u8C6101|Take 001|BaseLayer"
+    7400914: "\u5BF9\u8C6107|\u5BF9\u8C6102|Take 001|BaseLayer"
+    7400916: "\u5BF9\u8C6107|\u5BF9\u8C6103|Take 001|BaseLayer"
+    7400918: "\u5BF9\u8C6107|\u5BF9\u8C6104|Take 001|BaseLayer"
+    7400920: "\u5BF9\u8C6107|\u5BF9\u8C6105|Take 001|BaseLayer"
+    7400922: "\u5BF9\u8C6107|\u5BF9\u8C6106|Take 001|BaseLayer"
+    7400924: "\u5BF9\u8C6107|\u5BF9\u8C6107|Take 001|BaseLayer"
+    7400926: "\u5BF9\u8C6107|\u5BF9\u8C6108|Take 001|BaseLayer"
+    7400928: "\u5BF9\u8C6107|\u5BF9\u8C6111|Take 001|BaseLayer"
+    7400930: "\u5BF9\u8C6107|\u5BF9\u8C6112|Take 001|BaseLayer"
+    7400932: "\u5BF9\u8C6107|\u8865\u5149.Target|Take 001|BaseLayer"
+    7400934: "\u5BF9\u8C6107|\u8865\u5149|Take 001|BaseLayer"
+    7400936: ChamferBox222|Birth 01|Take 001|BaseLayer
+    7400938: ChamferBox222|Box01|Take 001|BaseLayer
+    7400940: ChamferBox222|Box100|Take 001|BaseLayer
+    7400942: ChamferBox222|Box101|Take 001|BaseLayer
+    7400944: ChamferBox222|Box102|Take 001|BaseLayer
+    7400946: ChamferBox222|Box103|Take 001|BaseLayer
+    7400948: ChamferBox222|Box104|Take 001|BaseLayer
+    7400950: ChamferBox222|Box30|Take 001|BaseLayer
+    7400952: ChamferBox222|Box43|Take 001|BaseLayer
+    7400954: ChamferBox222|Box45|Take 001|BaseLayer
+    7400956: ChamferBox222|Box61|Take 001|BaseLayer
+    7400958: ChamferBox222|Box62|Take 001|BaseLayer
+    7400960: ChamferBox222|Box64|Take 001|BaseLayer
+    7400962: ChamferBox222|Box70|Take 001|BaseLayer
+    7400964: ChamferBox222|Box71|Take 001|BaseLayer
+    7400966: ChamferBox222|Box72|Take 001|BaseLayer
+    7400968: ChamferBox222|Box73|Take 001|BaseLayer
+    7400970: ChamferBox222|Box75|Take 001|BaseLayer
+    7400972: ChamferBox222|Box76|Take 001|BaseLayer
+    7400974: ChamferBox222|Box78|Take 001|BaseLayer
+    7400976: ChamferBox222|Box79|Take 001|BaseLayer
+    7400978: ChamferBox222|Box80|Take 001|BaseLayer
+    7400980: ChamferBox222|Box81|Take 001|BaseLayer
+    7400982: ChamferBox222|Box82|Take 001|BaseLayer
+    7400984: ChamferBox222|Box83|Take 001|BaseLayer
+    7400986: ChamferBox222|Box84|Take 001|BaseLayer
+    7400988: ChamferBox222|Box85|Take 001|BaseLayer
+    7400990: ChamferBox222|Box88|Take 001|BaseLayer
+    7400992: ChamferBox222|Box89|Take 001|BaseLayer
+    7400994: ChamferBox222|Box90|Take 001|BaseLayer
+    7400996: ChamferBox222|Box91|Take 001|BaseLayer
+    7400998: ChamferBox222|Box92|Take 001|BaseLayer
+    7401000: ChamferBox222|Box93|Take 001|BaseLayer
+    7401002: ChamferBox222|Box94|Take 001|BaseLayer
+    7401004: ChamferBox222|Box95|Take 001|BaseLayer
+    7401006: ChamferBox222|Box96|Take 001|BaseLayer
+    7401008: ChamferBox222|Box97|Take 001|BaseLayer
+    7401010: ChamferBox222|Box98|Take 001|BaseLayer
+    7401012: ChamferBox222|Box99|Take 001|BaseLayer
+    7401014: ChamferBox222|Camera03.Target|Take 001|BaseLayer
+    7401016: ChamferBox222|Camera03|Take 001|BaseLayer
+    7401018: ChamferBox222|ChamferBox174|Take 001|BaseLayer
+    7401020: ChamferBox222|ChamferBox221|Take 001|BaseLayer
+    7401022: ChamferBox222|ChamferBox222|Take 001|BaseLayer
+    7401024: ChamferBox222|ChamferBox306|Take 001|BaseLayer
+    7401026: ChamferBox222|ChamferBox307|Take 001|BaseLayer
+    7401028: ChamferBox222|ChamferBox308|Take 001|BaseLayer
+    7401030: ChamferBox222|Cone110|Take 001|BaseLayer
+    7401032: ChamferBox222|Cone124|Take 001|BaseLayer
+    7401034: ChamferBox222|Cone96|Take 001|BaseLayer
+    7401036: ChamferBox222|Display 01|Take 001|BaseLayer
+    7401038: ChamferBox222|Display 02|Take 001|BaseLayer
+    7401040: ChamferBox222|Event 01|Take 001|BaseLayer
+    7401042: ChamferBox222|Event 02|Take 001|BaseLayer
+    7401044: ChamferBox222|Particle View 01|Take 001|BaseLayer
+    7401046: ChamferBox222|Position Icon 01|Take 001|BaseLayer
+    7401048: ChamferBox222|Render 01|Take 001|BaseLayer
+    7401050: ChamferBox222|Rotation 01|Take 001|BaseLayer
+    7401052: ChamferBox222|Shape 01|Take 001|BaseLayer
+    7401054: ChamferBox222|Speed 01|Take 001|BaseLayer
+    7401056: ChamferBox222|yd_014_895|Take 001|BaseLayer
+    7401058: ChamferBox222|yd_014_896|Take 001|BaseLayer
+    7401060: ChamferBox222|yd_014_897|Take 001|BaseLayer
+    7401062: "ChamferBox222|\u4E3B\u5149.Target|Take 001|BaseLayer"
+    7401064: "ChamferBox222|\u4E3B\u5149|Take 001|BaseLayer"
+    7401066: "ChamferBox222|\u5929\u5149|Take 001|BaseLayer"
+    7401068: "ChamferBox222|\u5BF9\u8C6101|Take 001|BaseLayer"
+    7401070: "ChamferBox222|\u5BF9\u8C6102|Take 001|BaseLayer"
+    7401072: "ChamferBox222|\u5BF9\u8C6103|Take 001|BaseLayer"
+    7401074: "ChamferBox222|\u5BF9\u8C6104|Take 001|BaseLayer"
+    7401076: "ChamferBox222|\u5BF9\u8C6105|Take 001|BaseLayer"
+    7401078: "ChamferBox222|\u5BF9\u8C6106|Take 001|BaseLayer"
+    7401080: "ChamferBox222|\u5BF9\u8C6107|Take 001|BaseLayer"
+    7401082: "ChamferBox222|\u5BF9\u8C6108|Take 001|BaseLayer"
+    7401084: "ChamferBox222|\u5BF9\u8C6111|Take 001|BaseLayer"
+    7401086: "ChamferBox222|\u5BF9\u8C6112|Take 001|BaseLayer"
+    7401088: "ChamferBox222|\u8865\u5149.Target|Take 001|BaseLayer"
+    7401090: "ChamferBox222|\u8865\u5149|Take 001|BaseLayer"
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

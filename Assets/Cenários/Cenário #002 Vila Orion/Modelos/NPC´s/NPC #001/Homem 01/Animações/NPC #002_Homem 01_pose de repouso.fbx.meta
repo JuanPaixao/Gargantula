@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: 2244a5cd7dada7c4c9c5ffaa152fb10e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bottoms
+    100002: Eyes
+    100004: Eyes.001
+    100006: Homem 01_Abdomem
+    100008: "Homem 01_Ante bra\xE7o D"
+    100010: "Homem 01_Ante bra\xE7o E"
+    100012: "Homem 01_Bra\xE7o D"
+    100014: "Homem 01_Bra\xE7o E"
+    100016: "Homem 01_Cabe\xE7a"
+    100018: "Homem 01_Cabe\xE7a_end"
+    100020: Homem 01_Coxa D
+    100022: Homem 01_Coxa E
+    100024: Homem 01_Dedinho 02 D
+    100026: Homem 01_Dedinho 02 E
+    100028: Homem 01_Dedinho 03 D
+    100030: Homem 01_Dedinho 03 D_end
+    100032: Homem 01_Dedinho 03 E
+    100034: Homem 01_Dedinho 03 E_end
+    100036: Homem 01_Dedinho D
+    100038: Homem 01_Dedinho E
+    100040: Homem 01_Dedo dos pes D
+    100042: Homem 01_Dedo dos pes D_end
+    100044: Homem 01_Dedos dos Pes E
+    100046: Homem 01_Dedos dos Pes E_end
+    100048: "Homem 01_Ded\xE3o 01 E"
+    100050: "Homem 01_Ded\xE3o 02 D"
+    100052: "Homem 01_Ded\xE3o 03 D"
+    100054: "Homem 01_Ded\xE3o 03 D_end"
+    100056: "Homem 01_Ded\xE3o 03 E"
+    100058: "Homem 01_Ded\xE3o 03 E_end"
+    100060: "Homem 01_Ded\xE3o D"
+    100062: "Homem 01_Ded\xE3o E"
+    100064: Homem 01_Indicador 02 D
+    100066: Homem 01_Indicador 02 E
+    100068: Homem 01_Indicador 03 D
+    100070: Homem 01_Indicador 03 D_end
+    100072: Homem 01_Indicador 03 E
+    100074: Homem 01_Indicador 03 E_end
+    100076: Homem 01_Indicador D
+    100078: Homem 01_Indicador E
+    100080: Homem 01_Medio 02 D
+    100082: Homem 01_Medio 02 E
+    100084: Homem 01_Medio 03 D
+    100086: Homem 01_Medio 03 D_end
+    100088: Homem 01_Medio 03 E
+    100090: Homem 01_Medio 03 E_end
+    100092: Homem 01_Medio D
+    100094: Homem 01_Medio E
+    100096: Homem 01_Meio 02 D
+    100098: Homem 01_Meio 02 E
+    100100: Homem 01_Meio 03 E
+    100102: Homem 01_Meio 03 E_end
+    100104: Homem 01_Meio D
+    100106: Homem 01_Meio D 03 D
+    100108: Homem 01_Meio D 03 D_end
+    100110: Homem 01_Meio E
+    100112: "Homem 01_M\xE3o D"
+    100114: "Homem 01_M\xE3o E"
+    100116: Homem 01_Ombro D
+    100118: Homem 01_Ombro E
+    100120: Homem 01_Pe D
+    100122: Homem 01_Peito
+    100124: Homem 01_Peito 2
+    100126: Homem 01_Perna D
+    100128: Homem 01_Perna E
+    100130: "Homem 01_Pesco\xE7o"
+    100132: "Homem 01_P\xE9 E"
+    100134: Homem 01_Quadril
+    100136: Moustaches
+    100138: 'NPC #002 Homem que conversa 001'
+    100140: //RootNode
+    100142: 'NPC #002_Homem 01_Rig'
+    100144: Shoes
+    100146: Tops
+    100148: Tops.001
+    100150: Tops.002
+    100152: Tops.003
+    100154: Tops.004
+    100156: Tops.006
+    100158: Tops.007
+    100160: Tops.008
+    400000: Bottoms
+    400002: Eyes
+    400004: Eyes.001
+    400006: Homem 01_Abdomem
+    400008: "Homem 01_Ante bra\xE7o D"
+    400010: "Homem 01_Ante bra\xE7o E"
+    400012: "Homem 01_Bra\xE7o D"
+    400014: "Homem 01_Bra\xE7o E"
+    400016: "Homem 01_Cabe\xE7a"
+    400018: "Homem 01_Cabe\xE7a_end"
+    400020: Homem 01_Coxa D
+    400022: Homem 01_Coxa E
+    400024: Homem 01_Dedinho 02 D
+    400026: Homem 01_Dedinho 02 E
+    400028: Homem 01_Dedinho 03 D
+    400030: Homem 01_Dedinho 03 D_end
+    400032: Homem 01_Dedinho 03 E
+    400034: Homem 01_Dedinho 03 E_end
+    400036: Homem 01_Dedinho D
+    400038: Homem 01_Dedinho E
+    400040: Homem 01_Dedo dos pes D
+    400042: Homem 01_Dedo dos pes D_end
+    400044: Homem 01_Dedos dos Pes E
+    400046: Homem 01_Dedos dos Pes E_end
+    400048: "Homem 01_Ded\xE3o 01 E"
+    400050: "Homem 01_Ded\xE3o 02 D"
+    400052: "Homem 01_Ded\xE3o 03 D"
+    400054: "Homem 01_Ded\xE3o 03 D_end"
+    400056: "Homem 01_Ded\xE3o 03 E"
+    400058: "Homem 01_Ded\xE3o 03 E_end"
+    400060: "Homem 01_Ded\xE3o D"
+    400062: "Homem 01_Ded\xE3o E"
+    400064: Homem 01_Indicador 02 D
+    400066: Homem 01_Indicador 02 E
+    400068: Homem 01_Indicador 03 D
+    400070: Homem 01_Indicador 03 D_end
+    400072: Homem 01_Indicador 03 E
+    400074: Homem 01_Indicador 03 E_end
+    400076: Homem 01_Indicador D
+    400078: Homem 01_Indicador E
+    400080: Homem 01_Medio 02 D
+    400082: Homem 01_Medio 02 E
+    400084: Homem 01_Medio 03 D
+    400086: Homem 01_Medio 03 D_end
+    400088: Homem 01_Medio 03 E
+    400090: Homem 01_Medio 03 E_end
+    400092: Homem 01_Medio D
+    400094: Homem 01_Medio E
+    400096: Homem 01_Meio 02 D
+    400098: Homem 01_Meio 02 E
+    400100: Homem 01_Meio 03 E
+    400102: Homem 01_Meio 03 E_end
+    400104: Homem 01_Meio D
+    400106: Homem 01_Meio D 03 D
+    400108: Homem 01_Meio D 03 D_end
+    400110: Homem 01_Meio E
+    400112: "Homem 01_M\xE3o D"
+    400114: "Homem 01_M\xE3o E"
+    400116: Homem 01_Ombro D
+    400118: Homem 01_Ombro E
+    400120: Homem 01_Pe D
+    400122: Homem 01_Peito
+    400124: Homem 01_Peito 2
+    400126: Homem 01_Perna D
+    400128: Homem 01_Perna E
+    400130: "Homem 01_Pesco\xE7o"
+    400132: "Homem 01_P\xE9 E"
+    400134: Homem 01_Quadril
+    400136: Moustaches
+    400138: 'NPC #002 Homem que conversa 001'
+    400140: //RootNode
+    400142: 'NPC #002_Homem 01_Rig'
+    400144: Shoes
+    400146: Tops
+    400148: Tops.001
+    400150: Tops.002
+    400152: Tops.003
+    400154: Tops.004
+    400156: Tops.006
+    400158: Tops.007
+    400160: Tops.008
+    2100000: Pele
+    2100002: "cal\xE7a_sapato"
+    2100004: Colete_camisa_cinto
+    2100006: Barba
+    2100008: No Name
+    2100010: PackedMaterial3
+    4300000: Eyes.001
+    4300002: Eyes
+    4300004: Bottoms
+    4300006: Tops.001
+    4300008: 'NPC #002 Homem que conversa 001'
+    4300010: Tops.006
+    4300012: Tops.004
+    4300014: Shoes
+    4300016: Moustaches
+    4300018: Tops.007
+    4300020: Tops
+    4300022: Tops.002
+    4300024: Tops.003
+    4300026: Tops.008
+    7400000: 'NPC #002_Homem 01_Rig|Armature|mixamo.com|Layer0'
+    7400002: 'NPC #002_Homem 01_Rig|NPC #002_Homem 01_Rig.001|NPC #002_Homem 01_Rig|Armature|mixamo'
+    9500000: //RootNode
+    13700000: Bottoms
+    13700002: Eyes
+    13700004: Eyes.001
+    13700006: Moustaches
+    13700008: 'NPC #002 Homem que conversa 001'
+    13700010: Shoes
+    13700012: Tops
+    13700014: Tops.001
+    13700016: Tops.002
+    13700018: Tops.003
+    13700020: Tops.004
+    13700022: Tops.006
+    13700024: Tops.007
+    13700026: Tops.008
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 8bb8a2a6bed9feb498f9d449cabd9189
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box014.002
+    100002: Box014.003
+    100004: Box105
+    100006: Box105.001
+    100008: Box106
+    100010: Box106.001
+    100012: Box107
+    100014: Box107.001
+    100016: Box121
+    100018: Box121.001
+    100020: Box121.002
+    100022: Box121.006
+    100024: Box121.007
+    100026: Box121.008
+    100028: Box121.009
+    100030: Correntes.000
+    100032: Correntes.001
+    100034: Correntes.002
+    100036: Correntes.027
+    100038: Cylinder
+    100040: //RootNode
+    100042: Elevador
+    400000: Box014.002
+    400002: Box014.003
+    400004: Box105
+    400006: Box105.001
+    400008: Box106
+    400010: Box106.001
+    400012: Box107
+    400014: Box107.001
+    400016: Box121
+    400018: Box121.001
+    400020: Box121.002
+    400022: Box121.006
+    400024: Box121.007
+    400026: Box121.008
+    400028: Box121.009
+    400030: Correntes.000
+    400032: Correntes.001
+    400034: Correntes.002
+    400036: Correntes.027
+    400038: Cylinder
+    400040: //RootNode
+    400042: Elevador
+    2100000: No Name
+    2100002: correntesFerro
+    2100004: 'Material #37'
+    2100006: 'Material #31'
+    2300000: Box014.002
+    2300002: Box014.003
+    2300004: Box105
+    2300006: Box105.001
+    2300008: Box106
+    2300010: Box106.001
+    2300012: Box107
+    2300014: Box107.001
+    2300016: Box121
+    2300018: Box121.001
+    2300020: Box121.002
+    2300022: Box121.006
+    2300024: Box121.007
+    2300026: Box121.008
+    2300028: Box121.009
+    2300030: Correntes.000
+    2300032: Correntes.001
+    2300034: Correntes.002
+    2300036: Correntes.027
+    2300038: Cylinder
+    2300040: Elevador
+    3300000: Box014.002
+    3300002: Box014.003
+    3300004: Box105
+    3300006: Box105.001
+    3300008: Box106
+    3300010: Box106.001
+    3300012: Box107
+    3300014: Box107.001
+    3300016: Box121
+    3300018: Box121.001
+    3300020: Box121.002
+    3300022: Box121.006
+    3300024: Box121.007
+    3300026: Box121.008
+    3300028: Box121.009
+    3300030: Correntes.000
+    3300032: Correntes.001
+    3300034: Correntes.002
+    3300036: Correntes.027
+    3300038: Cylinder
+    3300040: Elevador
+    4300000: Cylinder
+    4300002: Elevador
+    4300004: Box121.002
+    4300006: Box121.001
+    4300008: Box014.003
+    4300010: Correntes.002
+    4300012: Correntes.001
+    4300014: Correntes.000
+    4300016: Correntes.027
+    4300018: Box121.009
+    4300020: Box121.008
+    4300022: Box121.007
+    4300024: Box121.006
+    4300026: Box107.001
+    4300028: Box106.001
+    4300030: Box105.001
+    4300032: Box014.002
+    4300034: Box105
+    4300036: Box106
+    4300038: Box107
+    4300040: Box121
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

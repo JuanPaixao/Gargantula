@@ -1,0 +1,63 @@
+# Blender MTL File: 'Noah_espada.blend'
+# Material Count: 5
+
+newmtl Bocal
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Bocal.png
+map_Bump Bocal_N.png
+map_Ks Bocal_S.png
+
+newmtl Filo
+Ns 19.607843
+Ka 1.000000 1.000000 1.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\JOAO\Documents\Ciaan Studio\Game Project\Projeto_Gargantula\GDD\3d\Personagens\Noah (tudo relacionado ao char)\equips\textures\wire_006135006_Base_Color.png
+
+newmtl Material
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\JOAO\Desktop\espada\d1e068328ba47190abe6c3c7f5c9d931.png
+
+newmtl Material.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Bocal E.png
+map_Bump -bm 0.716981 Bocal E_N.png
+map_Ks Bocal E_S.png
+
+newmtl Pegador
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.758750 0.758750 0.758750
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Pegador.png
+map_Bump -bm 5.000000 Pegador_N.png
+map_Ks Pegador_S.png

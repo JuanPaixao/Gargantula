@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 84f6f398c17655d488db31a0839507ce
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube.004
+    100004: Cube.006
+    100006: Cube.009
+    100008: Cube.011
+    100010: Icosphere
+    100012: //RootNode
+    100014: Stone Ladder
+    100016: Stone Ladder.001
+    100018: Stone Ladder.002
+    100020: Stone Ladder.003
+    100022: Stone Ladder.004
+    100024: Stone Ladder.005
+    100026: Stone Ladder.006
+    100028: Stone Ladder.007
+    100030: Stone Ladder.008
+    100032: Stone Ladder.009
+    100034: Stone Ladder.010
+    100036: Stone Ladder.011
+    100038: Stone Ladder.012
+    100040: Stone Ladder.013
+    100042: Stone Ladder.014
+    100044: Stone Ladder.015
+    100046: Stone Ladder.016
+    100048: Stone Ladder.017
+    100050: Stone Ladder.018
+    100052: Stone Ladder.019
+    100054: Stone Ladder.020
+    100056: Stone Ladder.021
+    100058: Stone Ladder.022
+    100060: Stone Ladder.023
+    100062: Stone Ladder.024
+    100064: Stone Ladder.025
+    100066: Stone Ladder.026
+    100068: Stone Ladder.027
+    100070: Stone Ladder.028
+    100072: Stone Ladder.029
+    100074: Stone Ladder.030
+    100076: Stone Ladder.031
+    100078: Stone Ladder.032
+    100080: Stone Ladder.033
+    100082: Stone Ladder.034
+    100084: Stone Ladder.035
+    100086: Stone Ladder.036
+    100088: Stone Ladder.037
+    100090: Stone Ladder.038
+    100092: Stone Ladder.039
+    100094: Stone Ladder.040
+    100096: Stone Ladder.041
+    100098: Stone Ladder.042
+    100100: Stone Ladder.043
+    100102: Stone Ladder.044
+    100104: Stone Ladder.045
+    100106: Stone Ladder.046
+    100108: Stone Ladder.047
+    100110: Stone Ladder.048
+    100112: Stone Ladder.049
+    100114: Stone Ladder.050
+    100116: Stone Ladder.051
+    100118: Stone Ladder.052
+    100120: Stone Ladder.053
+    100122: Stone Ladder.054
+    100124: Stone Ladder.055
+    100126: Stone Ladder.056
+    100128: Stone Ladder.057
+    100130: Stone Ladder.058
+    100132: Stone Ladder.059
+    100134: Stone Ladder.060
+    100136: Stone Ladder.061
+    100138: Stone Ladder.062
+    100140: Stone Ladder.063
+    100142: Stone Ladder.064
+    100144: Stone Ladder.065
+    100146: Stone Ladder.066
+    100148: Stone Ladder.067
+    100150: Stone Ladder.068
+    100152: Stone Ladder.069
+    100154: Stone Ladder.070
+    100156: Stone Ladder.071
+    100158: Stone Ladder.072
+    100160: Stone Ladder.073
+    100162: Stone Ladder.074
+    100164: Stone Ladder.075
+    100166: Stone Ladder.076
+    100168: Stone Ladder.077
+    100170: Stone Ladder.078
+    100172: Stone Ladder.079
+    100174: Stone Ladder.080
+    100176: Stone Ladder.081
+    100178: Stone Ladder.082
+    100180: Stone Ladder.083
+    100182: Stone Ladder.084
+    100184: Stone Ladder.085
+    100186: Stone Ladder.086
+    100188: Stone Ladder.087
+    100190: Stone Ladder.088
+    100192: Stone Ladder.089
+    100194: Stone Ladder.090
+    100196: Stone Ladder.091
+    100198: Stone Ladder.092
+    100200: Stone Ladder.093
+    100202: Stone Ladder.094
+    100204: Stone Ladder.095
+    100206: Stone Ladder.096
+    100208: Stone Ladder.097
+    100210: Stone Ladder.098
+    100212: Stone Ladder.099
+    100214: Stone Ladder.100
+    100216: Stone Ladder.101
+    100218: Stone Ladder.102
+    100220: Stone Ladder.103
+    100222: Stone Ladder.104
+    100224: Stone Ladder.105
+    100226: Stone Ladder.106
+    100228: Stone Ladder.107
+    100230: Stone Ladder.108
+    100232: Stone Ladder.109
+    100234: Stone Ladder.110
+    100236: Stone Ladder.111
+    100238: Stone Ladder.112
+    100240: Stone Ladder.113
+    100242: Stone Ladder.114
+    100244: Stone Ladder.115
+    100246: Stone Ladder.116
+    100248: Stone Ladder.117
+    100250: Stone Ladder.118
+    100252: Stone Ladder.119
+    100254: Stone Ladder.120
+    100256: Stone Ladder.121
+    100258: Stone Ladder.122
+    100260: Stone Ladder.123
+    100262: Stone Ladder.124
+    100264: Stone Ladder.125
+    100266: Stone Ladder.126
+    100268: Stone Ladder.127
+    100270: Stone Ladder.128
+    100272: Stone Ladder.129
+    100274: Stone Ladder.130
+    100276: Stone Ladder.131
+    100278: Stone Ladder.132
+    100280: Stone Ladder.133
+    100282: Stone Ladder.134
+    100284: Stone Ladder.135
+    100286: Stone Ladder.136
+    100288: Stone Ladder.137
+    100290: Stone Ladder.138
+    100292: Stone Ladder.139
+    100294: Stone Ladder.140
+    100296: Stone Ladder.141
+    100298: Stone Ladder.142
+    100300: Stone Ladder.143
+    100302: Stone Ladder.144
+    100304: Stone Ladder.145
+    100306: Stone Ladder.146
+    100308: Stone Ladder.147
+    100310: Stone Ladder.148
+    100312: Stone Ladder.149
+    100314: Stone Ladder.150
+    100316: Stone Ladder.151
+    100318: Stone Ladder.152
+    100320: Stone Ladder.153
+    100322: Stone Ladder.154
+    100324: Stone Ladder.155
+    100326: Stone Ladder.156
+    100328: Stone Ladder.157
+    100330: Stone Ladder.158
+    100332: Stone Ladder.159
+    100334: Stone Ladder.160
+    100336: Stone Ladder.161
+    100338: Stone Ladder.162
+    100340: Stone Ladder.163
+    100342: Stone Ladder.164
+    100344: Stone Ladder.165
+    100346: Stone Ladder.166
+    100348: Stone Ladder.167
+    100350: Stone Ladder.168
+    100352: Stone Ladder.169
+    100354: Stone Ladder.170
+    100356: Stone Ladder.171
+    100358: Stone Ladder.172
+    100360: Stone Ladder.173
+    100362: Stone Ladder.174
+    100364: Stone Ladder.175
+    100366: Stone Ladder.176
+    100368: Stone Ladder.177
+    100370: Stone Ladder.178
+    100372: Stone Ladder.179
+    100374: Stone Ladder.180
+    400000: Cube
+    400002: Cube.004
+    400004: Cube.006
+    400006: Cube.009
+    400008: Cube.011
+    400010: Icosphere
+    400012: //RootNode
+    400014: Stone Ladder
+    400016: Stone Ladder.001
+    400018: Stone Ladder.002
+    400020: Stone Ladder.003
+    400022: Stone Ladder.004
+    400024: Stone Ladder.005
+    400026: Stone Ladder.006
+    400028: Stone Ladder.007
+    400030: Stone Ladder.008
+    400032: Stone Ladder.009
+    400034: Stone Ladder.010
+    400036: Stone Ladder.011
+    400038: Stone Ladder.012
+    400040: Stone Ladder.013
+    400042: Stone Ladder.014
+    400044: Stone Ladder.015
+    400046: Stone Ladder.016
+    400048: Stone Ladder.017
+    400050: Stone Ladder.018
+    400052: Stone Ladder.019
+    400054: Stone Ladder.020
+    400056: Stone Ladder.021
+    400058: Stone Ladder.022
+    400060: Stone Ladder.023
+    400062: Stone Ladder.024
+    400064: Stone Ladder.025
+    400066: Stone Ladder.026
+    400068: Stone Ladder.027
+    400070: Stone Ladder.028
+    400072: Stone Ladder.029
+    400074: Stone Ladder.030
+    400076: Stone Ladder.031
+    400078: Stone Ladder.032
+    400080: Stone Ladder.033
+    400082: Stone Ladder.034
+    400084: Stone Ladder.035
+    400086: Stone Ladder.036
+    400088: Stone Ladder.037
+    400090: Stone Ladder.038
+    400092: Stone Ladder.039
+    400094: Stone Ladder.040
+    400096: Stone Ladder.041
+    400098: Stone Ladder.042
+    400100: Stone Ladder.043
+    400102: Stone Ladder.044
+    400104: Stone Ladder.045
+    400106: Stone Ladder.046
+    400108: Stone Ladder.047
+    400110: Stone Ladder.048
+    400112: Stone Ladder.049
+    400114: Stone Ladder.050
+    400116: Stone Ladder.051
+    400118: Stone Ladder.052
+    400120: Stone Ladder.053
+    400122: Stone Ladder.054
+    400124: Stone Ladder.055
+    400126: Stone Ladder.056
+    400128: Stone Ladder.057
+    400130: Stone Ladder.058
+    400132: Stone Ladder.059
+    400134: Stone Ladder.060
+    400136: Stone Ladder.061
+    400138: Stone Ladder.062
+    400140: Stone Ladder.063
+    400142: Stone Ladder.064
+    400144: Stone Ladder.065
+    400146: Stone Ladder.066
+    400148: Stone Ladder.067
+    400150: Stone Ladder.068
+    400152: Stone Ladder.069
+    400154: Stone Ladder.070
+    400156: Stone Ladder.071
+    400158: Stone Ladder.072
+    400160: Stone Ladder.073
+    400162: Stone Ladder.074
+    400164: Stone Ladder.075
+    400166: Stone Ladder.076
+    400168: Stone Ladder.077
+    400170: Stone Ladder.078
+    400172: Stone Ladder.079
+    400174: Stone Ladder.080
+    400176: Stone Ladder.081
+    400178: Stone Ladder.082
+    400180: Stone Ladder.083
+    400182: Stone Ladder.084
+    400184: Stone Ladder.085
+    400186: Stone Ladder.086
+    400188: Stone Ladder.087
+    400190: Stone Ladder.088
+    400192: Stone Ladder.089
+    400194: Stone Ladder.090
+    400196: Stone Ladder.091
+    400198: Stone Ladder.092
+    400200: Stone Ladder.093
+    400202: Stone Ladder.094
+    400204: Stone Ladder.095
+    400206: Stone Ladder.096
+    400208: Stone Ladder.097
+    400210: Stone Ladder.098
+    400212: Stone Ladder.099
+    400214: Stone Ladder.100
+    400216: Stone Ladder.101
+    400218: Stone Ladder.102
+    400220: Stone Ladder.103
+    400222: Stone Ladder.104
+    400224: Stone Ladder.105
+    400226: Stone Ladder.106
+    400228: Stone Ladder.107
+    400230: Stone Ladder.108
+    400232: Stone Ladder.109
+    400234: Stone Ladder.110
+    400236: Stone Ladder.111
+    400238: Stone Ladder.112
+    400240: Stone Ladder.113
+    400242: Stone Ladder.114
+    400244: Stone Ladder.115
+    400246: Stone Ladder.116
+    400248: Stone Ladder.117
+    400250: Stone Ladder.118
+    400252: Stone Ladder.119
+    400254: Stone Ladder.120
+    400256: Stone Ladder.121
+    400258: Stone Ladder.122
+    400260: Stone Ladder.123
+    400262: Stone Ladder.124
+    400264: Stone Ladder.125
+    400266: Stone Ladder.126
+    400268: Stone Ladder.127
+    400270: Stone Ladder.128
+    400272: Stone Ladder.129
+    400274: Stone Ladder.130
+    400276: Stone Ladder.131
+    400278: Stone Ladder.132
+    400280: Stone Ladder.133
+    400282: Stone Ladder.134
+    400284: Stone Ladder.135
+    400286: Stone Ladder.136
+    400288: Stone Ladder.137
+    400290: Stone Ladder.138
+    400292: Stone Ladder.139
+    400294: Stone Ladder.140
+    400296: Stone Ladder.141
+    400298: Stone Ladder.142
+    400300: Stone Ladder.143
+    400302: Stone Ladder.144
+    400304: Stone Ladder.145
+    400306: Stone Ladder.146
+    400308: Stone Ladder.147
+    400310: Stone Ladder.148
+    400312: Stone Ladder.149
+    400314: Stone Ladder.150
+    400316: Stone Ladder.151
+    400318: Stone Ladder.152
+    400320: Stone Ladder.153
+    400322: Stone Ladder.154
+    400324: Stone Ladder.155
+    400326: Stone Ladder.156
+    400328: Stone Ladder.157
+    400330: Stone Ladder.158
+    400332: Stone Ladder.159
+    400334: Stone Ladder.160
+    400336: Stone Ladder.161
+    400338: Stone Ladder.162
+    400340: Stone Ladder.163
+    400342: Stone Ladder.164
+    400344: Stone Ladder.165
+    400346: Stone Ladder.166
+    400348: Stone Ladder.167
+    400350: Stone Ladder.168
+    400352: Stone Ladder.169
+    400354: Stone Ladder.170
+    400356: Stone Ladder.171
+    400358: Stone Ladder.172
+    400360: Stone Ladder.173
+    400362: Stone Ladder.174
+    400364: Stone Ladder.175
+    400366: Stone Ladder.176
+    400368: Stone Ladder.177
+    400370: Stone Ladder.178
+    400372: Stone Ladder.179
+    400374: Stone Ladder.180
+    2100000: Cavern
+    2100002: No Name
+    2300000: Cube
+    2300002: Cube.004
+    2300004: Cube.006
+    2300006: Cube.009
+    2300008: Cube.011
+    2300010: Icosphere
+    2300012: Stone Ladder
+    2300014: Stone Ladder.001
+    2300016: Stone Ladder.002
+    2300018: Stone Ladder.003
+    2300020: Stone Ladder.004
+    2300022: Stone Ladder.005
+    2300024: Stone Ladder.006
+    2300026: Stone Ladder.007
+    2300028: Stone Ladder.008
+    2300030: Stone Ladder.009
+    2300032: Stone Ladder.010
+    2300034: Stone Ladder.011
+    2300036: Stone Ladder.012
+    2300038: Stone Ladder.013
+    2300040: Stone Ladder.014
+    2300042: Stone Ladder.015
+    2300044: Stone Ladder.016
+    2300046: Stone Ladder.017
+    2300048: Stone Ladder.018
+    2300050: Stone Ladder.019
+    2300052: Stone Ladder.020
+    2300054: Stone Ladder.021
+    2300056: Stone Ladder.022
+    2300058: Stone Ladder.023
+    2300060: Stone Ladder.024
+    2300062: Stone Ladder.025
+    2300064: Stone Ladder.026
+    2300066: Stone Ladder.027
+    2300068: Stone Ladder.028
+    2300070: Stone Ladder.029
+    2300072: Stone Ladder.030
+    2300074: Stone Ladder.031
+    2300076: Stone Ladder.032
+    2300078: Stone Ladder.033
+    2300080: Stone Ladder.034
+    2300082: Stone Ladder.035
+    2300084: Stone Ladder.036
+    2300086: Stone Ladder.037
+    2300088: Stone Ladder.038
+    2300090: Stone Ladder.039
+    2300092: Stone Ladder.040
+    2300094: Stone Ladder.041
+    2300096: Stone Ladder.042
+    2300098: Stone Ladder.043
+    2300100: Stone Ladder.044
+    2300102: Stone Ladder.045
+    2300104: Stone Ladder.046
+    2300106: Stone Ladder.047
+    2300108: Stone Ladder.048
+    2300110: Stone Ladder.049
+    2300112: Stone Ladder.050
+    2300114: Stone Ladder.051
+    2300116: Stone Ladder.052
+    2300118: Stone Ladder.053
+    2300120: Stone Ladder.054
+    2300122: Stone Ladder.055
+    2300124: Stone Ladder.056
+    2300126: Stone Ladder.057
+    2300128: Stone Ladder.058
+    2300130: Stone Ladder.059
+    2300132: Stone Ladder.060
+    2300134: Stone Ladder.061
+    2300136: Stone Ladder.062
+    2300138: Stone Ladder.063
+    2300140: Stone Ladder.064
+    2300142: Stone Ladder.065
+    2300144: Stone Ladder.066
+    2300146: Stone Ladder.067
+    2300148: Stone Ladder.068
+    2300150: Stone Ladder.069
+    2300152: Stone Ladder.070
+    2300154: Stone Ladder.071
+    2300156: Stone Ladder.072
+    2300158: Stone Ladder.073
+    2300160: Stone Ladder.074
+    2300162: Stone Ladder.075
+    2300164: Stone Ladder.076
+    2300166: Stone Ladder.077
+    2300168: Stone Ladder.078
+    2300170: Stone Ladder.079
+    2300172: Stone Ladder.080
+    2300174: Stone Ladder.081
+    2300176: Stone Ladder.082
+    2300178: Stone Ladder.083
+    2300180: Stone Ladder.084
+    2300182: Stone Ladder.085
+    2300184: Stone Ladder.086
+    2300186: Stone Ladder.087
+    2300188: Stone Ladder.088
+    2300190: Stone Ladder.089
+    2300192: Stone Ladder.090
+    2300194: Stone Ladder.091
+    2300196: Stone Ladder.092
+    2300198: Stone Ladder.093
+    2300200: Stone Ladder.094
+    2300202: Stone Ladder.095
+    2300204: Stone Ladder.096
+    2300206: Stone Ladder.097
+    2300208: Stone Ladder.098
+    2300210: Stone Ladder.099
+    2300212: Stone Ladder.100
+    2300214: Stone Ladder.101
+    2300216: Stone Ladder.102
+    2300218: Stone Ladder.103
+    2300220: Stone Ladder.104
+    2300222: Stone Ladder.105
+    2300224: Stone Ladder.106
+    2300226: Stone Ladder.107
+    2300228: Stone Ladder.108
+    2300230: Stone Ladder.109
+    2300232: Stone Ladder.110
+    2300234: Stone Ladder.111
+    2300236: Stone Ladder.112
+    2300238: Stone Ladder.113
+    2300240: Stone Ladder.114
+    2300242: Stone Ladder.115
+    2300244: Stone Ladder.116
+    2300246: Stone Ladder.117
+    2300248: Stone Ladder.118
+    2300250: Stone Ladder.119
+    2300252: Stone Ladder.120
+    2300254: Stone Ladder.121
+    2300256: Stone Ladder.122
+    2300258: Stone Ladder.123
+    2300260: Stone Ladder.124
+    2300262: Stone Ladder.125
+    2300264: Stone Ladder.126
+    2300266: Stone Ladder.127
+    2300268: Stone Ladder.128
+    2300270: Stone Ladder.129
+    2300272: Stone Ladder.130
+    2300274: Stone Ladder.131
+    2300276: Stone Ladder.132
+    2300278: Stone Ladder.133
+    2300280: Stone Ladder.134
+    2300282: Stone Ladder.135
+    2300284: Stone Ladder.136
+    2300286: Stone Ladder.137
+    2300288: Stone Ladder.138
+    2300290: Stone Ladder.139
+    2300292: Stone Ladder.140
+    2300294: Stone Ladder.141
+    2300296: Stone Ladder.142
+    2300298: Stone Ladder.143
+    2300300: Stone Ladder.144
+    2300302: Stone Ladder.145
+    2300304: Stone Ladder.146
+    2300306: Stone Ladder.147
+    2300308: Stone Ladder.148
+    2300310: Stone Ladder.149
+    2300312: Stone Ladder.150
+    2300314: Stone Ladder.151
+    2300316: Stone Ladder.152
+    2300318: Stone Ladder.153
+    2300320: Stone Ladder.154
+    2300322: Stone Ladder.155
+    2300324: Stone Ladder.156
+    2300326: Stone Ladder.157
+    2300328: Stone Ladder.158
+    2300330: Stone Ladder.159
+    2300332: Stone Ladder.160
+    2300334: Stone Ladder.161
+    2300336: Stone Ladder.162
+    2300338: Stone Ladder.163
+    2300340: Stone Ladder.164
+    2300342: Stone Ladder.165
+    2300344: Stone Ladder.166
+    2300346: Stone Ladder.167
+    2300348: Stone Ladder.168
+    2300350: Stone Ladder.169
+    2300352: Stone Ladder.170
+    2300354: Stone Ladder.171
+    2300356: Stone Ladder.172
+    2300358: Stone Ladder.173
+    2300360: Stone Ladder.174
+    2300362: Stone Ladder.175
+    2300364: Stone Ladder.176
+    2300366: Stone Ladder.177
+    2300368: Stone Ladder.178
+    2300370: Stone Ladder.179
+    2300372: Stone Ladder.180
+    3300000: Cube
+    3300002: Cube.004
+    3300004: Cube.006
+    3300006: Cube.009
+    3300008: Cube.011
+    3300010: Icosphere
+    3300012: Stone Ladder
+    3300014: Stone Ladder.001
+    3300016: Stone Ladder.002
+    3300018: Stone Ladder.003
+    3300020: Stone Ladder.004
+    3300022: Stone Ladder.005
+    3300024: Stone Ladder.006
+    3300026: Stone Ladder.007
+    3300028: Stone Ladder.008
+    3300030: Stone Ladder.009
+    3300032: Stone Ladder.010
+    3300034: Stone Ladder.011
+    3300036: Stone Ladder.012
+    3300038: Stone Ladder.013
+    3300040: Stone Ladder.014
+    3300042: Stone Ladder.015
+    3300044: Stone Ladder.016
+    3300046: Stone Ladder.017
+    3300048: Stone Ladder.018
+    3300050: Stone Ladder.019
+    3300052: Stone Ladder.020
+    3300054: Stone Ladder.021
+    3300056: Stone Ladder.022
+    3300058: Stone Ladder.023
+    3300060: Stone Ladder.024
+    3300062: Stone Ladder.025
+    3300064: Stone Ladder.026
+    3300066: Stone Ladder.027
+    3300068: Stone Ladder.028
+    3300070: Stone Ladder.029
+    3300072: Stone Ladder.030
+    3300074: Stone Ladder.031
+    3300076: Stone Ladder.032
+    3300078: Stone Ladder.033
+    3300080: Stone Ladder.034
+    3300082: Stone Ladder.035
+    3300084: Stone Ladder.036
+    3300086: Stone Ladder.037
+    3300088: Stone Ladder.038
+    3300090: Stone Ladder.039
+    3300092: Stone Ladder.040
+    3300094: Stone Ladder.041
+    3300096: Stone Ladder.042
+    3300098: Stone Ladder.043
+    3300100: Stone Ladder.044
+    3300102: Stone Ladder.045
+    3300104: Stone Ladder.046
+    3300106: Stone Ladder.047
+    3300108: Stone Ladder.048
+    3300110: Stone Ladder.049
+    3300112: Stone Ladder.050
+    3300114: Stone Ladder.051
+    3300116: Stone Ladder.052
+    3300118: Stone Ladder.053
+    3300120: Stone Ladder.054
+    3300122: Stone Ladder.055
+    3300124: Stone Ladder.056
+    3300126: Stone Ladder.057
+    3300128: Stone Ladder.058
+    3300130: Stone Ladder.059
+    3300132: Stone Ladder.060
+    3300134: Stone Ladder.061
+    3300136: Stone Ladder.062
+    3300138: Stone Ladder.063
+    3300140: Stone Ladder.064
+    3300142: Stone Ladder.065
+    3300144: Stone Ladder.066
+    3300146: Stone Ladder.067
+    3300148: Stone Ladder.068
+    3300150: Stone Ladder.069
+    3300152: Stone Ladder.070
+    3300154: Stone Ladder.071
+    3300156: Stone Ladder.072
+    3300158: Stone Ladder.073
+    3300160: Stone Ladder.074
+    3300162: Stone Ladder.075
+    3300164: Stone Ladder.076
+    3300166: Stone Ladder.077
+    3300168: Stone Ladder.078
+    3300170: Stone Ladder.079
+    3300172: Stone Ladder.080
+    3300174: Stone Ladder.081
+    3300176: Stone Ladder.082
+    3300178: Stone Ladder.083
+    3300180: Stone Ladder.084
+    3300182: Stone Ladder.085
+    3300184: Stone Ladder.086
+    3300186: Stone Ladder.087
+    3300188: Stone Ladder.088
+    3300190: Stone Ladder.089
+    3300192: Stone Ladder.090
+    3300194: Stone Ladder.091
+    3300196: Stone Ladder.092
+    3300198: Stone Ladder.093
+    3300200: Stone Ladder.094
+    3300202: Stone Ladder.095
+    3300204: Stone Ladder.096
+    3300206: Stone Ladder.097
+    3300208: Stone Ladder.098
+    3300210: Stone Ladder.099
+    3300212: Stone Ladder.100
+    3300214: Stone Ladder.101
+    3300216: Stone Ladder.102
+    3300218: Stone Ladder.103
+    3300220: Stone Ladder.104
+    3300222: Stone Ladder.105
+    3300224: Stone Ladder.106
+    3300226: Stone Ladder.107
+    3300228: Stone Ladder.108
+    3300230: Stone Ladder.109
+    3300232: Stone Ladder.110
+    3300234: Stone Ladder.111
+    3300236: Stone Ladder.112
+    3300238: Stone Ladder.113
+    3300240: Stone Ladder.114
+    3300242: Stone Ladder.115
+    3300244: Stone Ladder.116
+    3300246: Stone Ladder.117
+    3300248: Stone Ladder.118
+    3300250: Stone Ladder.119
+    3300252: Stone Ladder.120
+    3300254: Stone Ladder.121
+    3300256: Stone Ladder.122
+    3300258: Stone Ladder.123
+    3300260: Stone Ladder.124
+    3300262: Stone Ladder.125
+    3300264: Stone Ladder.126
+    3300266: Stone Ladder.127
+    3300268: Stone Ladder.128
+    3300270: Stone Ladder.129
+    3300272: Stone Ladder.130
+    3300274: Stone Ladder.131
+    3300276: Stone Ladder.132
+    3300278: Stone Ladder.133
+    3300280: Stone Ladder.134
+    3300282: Stone Ladder.135
+    3300284: Stone Ladder.136
+    3300286: Stone Ladder.137
+    3300288: Stone Ladder.138
+    3300290: Stone Ladder.139
+    3300292: Stone Ladder.140
+    3300294: Stone Ladder.141
+    3300296: Stone Ladder.142
+    3300298: Stone Ladder.143
+    3300300: Stone Ladder.144
+    3300302: Stone Ladder.145
+    3300304: Stone Ladder.146
+    3300306: Stone Ladder.147
+    3300308: Stone Ladder.148
+    3300310: Stone Ladder.149
+    3300312: Stone Ladder.150
+    3300314: Stone Ladder.151
+    3300316: Stone Ladder.152
+    3300318: Stone Ladder.153
+    3300320: Stone Ladder.154
+    3300322: Stone Ladder.155
+    3300324: Stone Ladder.156
+    3300326: Stone Ladder.157
+    3300328: Stone Ladder.158
+    3300330: Stone Ladder.159
+    3300332: Stone Ladder.160
+    3300334: Stone Ladder.161
+    3300336: Stone Ladder.162
+    3300338: Stone Ladder.163
+    3300340: Stone Ladder.164
+    3300342: Stone Ladder.165
+    3300344: Stone Ladder.166
+    3300346: Stone Ladder.167
+    3300348: Stone Ladder.168
+    3300350: Stone Ladder.169
+    3300352: Stone Ladder.170
+    3300354: Stone Ladder.171
+    3300356: Stone Ladder.172
+    3300358: Stone Ladder.173
+    3300360: Stone Ladder.174
+    3300362: Stone Ladder.175
+    3300364: Stone Ladder.176
+    3300366: Stone Ladder.177
+    3300368: Stone Ladder.178
+    3300370: Stone Ladder.179
+    3300372: Stone Ladder.180
+    4300000: Stone Ladder.180
+    4300002: Stone Ladder.179
+    4300004: Stone Ladder.178
+    4300006: Stone Ladder.177
+    4300008: Stone Ladder.176
+    4300010: Stone Ladder.175
+    4300012: Stone Ladder.174
+    4300014: Stone Ladder.173
+    4300016: Stone Ladder.172
+    4300018: Stone Ladder.171
+    4300020: Stone Ladder.170
+    4300022: Stone Ladder.169
+    4300024: Stone Ladder.168
+    4300026: Stone Ladder.167
+    4300028: Stone Ladder.166
+    4300030: Stone Ladder.165
+    4300032: Stone Ladder.164
+    4300034: Stone Ladder.163
+    4300036: Stone Ladder.162
+    4300038: Stone Ladder.161
+    4300040: Stone Ladder.160
+    4300042: Stone Ladder.159
+    4300044: Stone Ladder.158
+    4300046: Stone Ladder.157
+    4300048: Stone Ladder.156
+    4300050: Stone Ladder.155
+    4300052: Stone Ladder.154
+    4300054: Stone Ladder.153
+    4300056: Stone Ladder.152
+    4300058: Stone Ladder.151
+    4300060: Stone Ladder.150
+    4300062: Stone Ladder.149
+    4300064: Stone Ladder.148
+    4300066: Stone Ladder.147
+    4300068: Stone Ladder.146
+    4300070: Stone Ladder.145
+    4300072: Stone Ladder.144
+    4300074: Stone Ladder.143
+    4300076: Stone Ladder.142
+    4300078: Stone Ladder.141
+    4300080: Stone Ladder.140
+    4300082: Stone Ladder.139
+    4300084: Stone Ladder.138
+    4300086: Stone Ladder.137
+    4300088: Stone Ladder.136
+    4300090: Stone Ladder.135
+    4300092: Stone Ladder.134
+    4300094: Stone Ladder.133
+    4300096: Stone Ladder.132
+    4300098: Stone Ladder.131
+    4300100: Stone Ladder.130
+    4300102: Stone Ladder.129
+    4300104: Stone Ladder.128
+    4300106: Stone Ladder.127
+    4300108: Stone Ladder.126
+    4300110: Stone Ladder.125
+    4300112: Stone Ladder.124
+    4300114: Stone Ladder.123
+    4300116: Stone Ladder.122
+    4300118: Stone Ladder.121
+    4300120: Stone Ladder.120
+    4300122: Stone Ladder.119
+    4300124: Stone Ladder.118
+    4300126: Stone Ladder.117
+    4300128: Stone Ladder.116
+    4300130: Stone Ladder.115
+    4300132: Stone Ladder.114
+    4300134: Stone Ladder.113
+    4300136: Stone Ladder.112
+    4300138: Stone Ladder.111
+    4300140: Stone Ladder.110
+    4300142: Stone Ladder.109
+    4300144: Stone Ladder.108
+    4300146: Stone Ladder.107
+    4300148: Stone Ladder.106
+    4300150: Stone Ladder.105
+    4300152: Stone Ladder.104
+    4300154: Stone Ladder.103
+    4300156: Stone Ladder.102
+    4300158: Stone Ladder.101
+    4300160: Stone Ladder.100
+    4300162: Stone Ladder.099
+    4300164: Stone Ladder.098
+    4300166: Stone Ladder.097
+    4300168: Stone Ladder.096
+    4300170: Stone Ladder.095
+    4300172: Stone Ladder.094
+    4300174: Stone Ladder.093
+    4300176: Stone Ladder.092
+    4300178: Stone Ladder.091
+    4300180: Stone Ladder.090
+    4300182: Stone Ladder.089
+    4300184: Stone Ladder.088
+    4300186: Stone Ladder.087
+    4300188: Stone Ladder.086
+    4300190: Stone Ladder.085
+    4300192: Stone Ladder.084
+    4300194: Stone Ladder.083
+    4300196: Stone Ladder.082
+    4300198: Stone Ladder.081
+    4300200: Stone Ladder.080
+    4300202: Stone Ladder.079
+    4300204: Stone Ladder.078
+    4300206: Stone Ladder.077
+    4300208: Stone Ladder.076
+    4300210: Stone Ladder.075
+    4300212: Stone Ladder.074
+    4300214: Stone Ladder.073
+    4300216: Stone Ladder.072
+    4300218: Stone Ladder.071
+    4300220: Stone Ladder.070
+    4300222: Stone Ladder.069
+    4300224: Stone Ladder.068
+    4300226: Stone Ladder.067
+    4300228: Stone Ladder.066
+    4300230: Stone Ladder.065
+    4300232: Stone Ladder.064
+    4300234: Stone Ladder.063
+    4300236: Stone Ladder.062
+    4300238: Stone Ladder.061
+    4300240: Stone Ladder.060
+    4300242: Stone Ladder.059
+    4300244: Stone Ladder.058
+    4300246: Stone Ladder.057
+    4300248: Stone Ladder.056
+    4300250: Stone Ladder.055
+    4300252: Stone Ladder.054
+    4300254: Stone Ladder.053
+    4300256: Stone Ladder.052
+    4300258: Stone Ladder.051
+    4300260: Stone Ladder.050
+    4300262: Stone Ladder.049
+    4300264: Stone Ladder.048
+    4300266: Stone Ladder.047
+    4300268: Stone Ladder.046
+    4300270: Stone Ladder.045
+    4300272: Stone Ladder.044
+    4300274: Stone Ladder.043
+    4300276: Stone Ladder.042
+    4300278: Stone Ladder.041
+    4300280: Stone Ladder.040
+    4300282: Stone Ladder.039
+    4300284: Stone Ladder.038
+    4300286: Stone Ladder.037
+    4300288: Stone Ladder.036
+    4300290: Stone Ladder.035
+    4300292: Stone Ladder.034
+    4300294: Stone Ladder.033
+    4300296: Stone Ladder.032
+    4300298: Stone Ladder.031
+    4300300: Stone Ladder.030
+    4300302: Stone Ladder.029
+    4300304: Stone Ladder.028
+    4300306: Stone Ladder.027
+    4300308: Stone Ladder.026
+    4300310: Stone Ladder.025
+    4300312: Stone Ladder.024
+    4300314: Stone Ladder.023
+    4300316: Stone Ladder.022
+    4300318: Stone Ladder.021
+    4300320: Stone Ladder.020
+    4300322: Stone Ladder.019
+    4300324: Stone Ladder.018
+    4300326: Stone Ladder.017
+    4300328: Stone Ladder.016
+    4300330: Stone Ladder.015
+    4300332: Stone Ladder.014
+    4300334: Stone Ladder.013
+    4300336: Stone Ladder.012
+    4300338: Stone Ladder.011
+    4300340: Stone Ladder.010
+    4300342: Stone Ladder.009
+    4300344: Stone Ladder.008
+    4300346: Stone Ladder.007
+    4300348: Stone Ladder.006
+    4300350: Stone Ladder.005
+    4300352: Stone Ladder.004
+    4300354: Stone Ladder.003
+    4300356: Stone Ladder
+    4300358: Stone Ladder.001
+    4300360: Stone Ladder.002
+    4300362: Cube
+    4300364: Cube.006
+    4300366: Cube.009
+    4300368: Icosphere
+    4300370: Cube.004
+    4300372: Cube.011
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 10956288384706a42a97f57c116b9ecf
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Homem 01_Abdomem
+    100002: "Homem 01_Ante bra\xE7o D"
+    100004: "Homem 01_Ante bra\xE7o E"
+    100006: "Homem 01_Bra\xE7o D"
+    100008: "Homem 01_Bra\xE7o E"
+    100010: "Homem 01_Cabe\xE7a"
+    100012: "Homem 01_Cabe\xE7a_end"
+    100014: Homem 01_Coxa D
+    100016: Homem 01_Coxa E
+    100018: Homem 01_Dedinho 02 D
+    100020: Homem 01_Dedinho 02 E
+    100022: Homem 01_Dedinho 03 D
+    100024: Homem 01_Dedinho 03 D_end
+    100026: Homem 01_Dedinho 03 E
+    100028: Homem 01_Dedinho 03 E_end
+    100030: Homem 01_Dedinho D
+    100032: Homem 01_Dedinho E
+    100034: Homem 01_Dedo dos pes D
+    100036: Homem 01_Dedo dos pes D_end
+    100038: Homem 01_Dedos dos Pes E
+    100040: Homem 01_Dedos dos Pes E_end
+    100042: "Homem 01_Ded\xE3o 01 E"
+    100044: "Homem 01_Ded\xE3o 02 D"
+    100046: "Homem 01_Ded\xE3o 03 D"
+    100048: "Homem 01_Ded\xE3o 03 D_end"
+    100050: "Homem 01_Ded\xE3o 03 E"
+    100052: "Homem 01_Ded\xE3o 03 E_end"
+    100054: "Homem 01_Ded\xE3o D"
+    100056: "Homem 01_Ded\xE3o E"
+    100058: Homem 01_Indicador 02 D
+    100060: Homem 01_Indicador 02 E
+    100062: Homem 01_Indicador 03 D
+    100064: Homem 01_Indicador 03 D_end
+    100066: Homem 01_Indicador 03 E
+    100068: Homem 01_Indicador 03 E_end
+    100070: Homem 01_Indicador D
+    100072: Homem 01_Indicador E
+    100074: Homem 01_Medio 02 D
+    100076: Homem 01_Medio 02 E
+    100078: Homem 01_Medio 03 D
+    100080: Homem 01_Medio 03 D_end
+    100082: Homem 01_Medio 03 E
+    100084: Homem 01_Medio 03 E_end
+    100086: Homem 01_Medio D
+    100088: Homem 01_Medio E
+    100090: Homem 01_Meio 02 D
+    100092: Homem 01_Meio 02 E
+    100094: Homem 01_Meio 03 E
+    100096: Homem 01_Meio 03 E_end
+    100098: Homem 01_Meio D
+    100100: Homem 01_Meio D 03 D
+    100102: Homem 01_Meio D 03 D_end
+    100104: Homem 01_Meio E
+    100106: "Homem 01_M\xE3o D"
+    100108: "Homem 01_M\xE3o E"
+    100110: Homem 01_Ombro D
+    100112: Homem 01_Ombro E
+    100114: Homem 01_Pe D
+    100116: Homem 01_Peito
+    100118: Homem 01_Peito 2
+    100120: Homem 01_Perna D
+    100122: Homem 01_Perna E
+    100124: "Homem 01_Pesco\xE7o"
+    100126: "Homem 01_P\xE9 E"
+    100128: Homem 01_Quadril
+    100130: //RootNode
+    400000: Homem 01_Abdomem
+    400002: "Homem 01_Ante bra\xE7o D"
+    400004: "Homem 01_Ante bra\xE7o E"
+    400006: "Homem 01_Bra\xE7o D"
+    400008: "Homem 01_Bra\xE7o E"
+    400010: "Homem 01_Cabe\xE7a"
+    400012: "Homem 01_Cabe\xE7a_end"
+    400014: Homem 01_Coxa D
+    400016: Homem 01_Coxa E
+    400018: Homem 01_Dedinho 02 D
+    400020: Homem 01_Dedinho 02 E
+    400022: Homem 01_Dedinho 03 D
+    400024: Homem 01_Dedinho 03 D_end
+    400026: Homem 01_Dedinho 03 E
+    400028: Homem 01_Dedinho 03 E_end
+    400030: Homem 01_Dedinho D
+    400032: Homem 01_Dedinho E
+    400034: Homem 01_Dedo dos pes D
+    400036: Homem 01_Dedo dos pes D_end
+    400038: Homem 01_Dedos dos Pes E
+    400040: Homem 01_Dedos dos Pes E_end
+    400042: "Homem 01_Ded\xE3o 01 E"
+    400044: "Homem 01_Ded\xE3o 02 D"
+    400046: "Homem 01_Ded\xE3o 03 D"
+    400048: "Homem 01_Ded\xE3o 03 D_end"
+    400050: "Homem 01_Ded\xE3o 03 E"
+    400052: "Homem 01_Ded\xE3o 03 E_end"
+    400054: "Homem 01_Ded\xE3o D"
+    400056: "Homem 01_Ded\xE3o E"
+    400058: Homem 01_Indicador 02 D
+    400060: Homem 01_Indicador 02 E
+    400062: Homem 01_Indicador 03 D
+    400064: Homem 01_Indicador 03 D_end
+    400066: Homem 01_Indicador 03 E
+    400068: Homem 01_Indicador 03 E_end
+    400070: Homem 01_Indicador D
+    400072: Homem 01_Indicador E
+    400074: Homem 01_Medio 02 D
+    400076: Homem 01_Medio 02 E
+    400078: Homem 01_Medio 03 D
+    400080: Homem 01_Medio 03 D_end
+    400082: Homem 01_Medio 03 E
+    400084: Homem 01_Medio 03 E_end
+    400086: Homem 01_Medio D
+    400088: Homem 01_Medio E
+    400090: Homem 01_Meio 02 D
+    400092: Homem 01_Meio 02 E
+    400094: Homem 01_Meio 03 E
+    400096: Homem 01_Meio 03 E_end
+    400098: Homem 01_Meio D
+    400100: Homem 01_Meio D 03 D
+    400102: Homem 01_Meio D 03 D_end
+    400104: Homem 01_Meio E
+    400106: "Homem 01_M\xE3o D"
+    400108: "Homem 01_M\xE3o E"
+    400110: Homem 01_Ombro D
+    400112: Homem 01_Ombro E
+    400114: Homem 01_Pe D
+    400116: Homem 01_Peito
+    400118: Homem 01_Peito 2
+    400120: Homem 01_Perna D
+    400122: Homem 01_Perna E
+    400124: "Homem 01_Pesco\xE7o"
+    400126: "Homem 01_P\xE9 E"
+    400128: Homem 01_Quadril
+    400130: //RootNode
+    7400000: 'NPC #002_Homem 01_Rig|Armature|mixamo.com|Layer0'
+    7400002: 'NPC #002_Homem 01_Rig|NPC #002_Homem 01_Rig.001|NPC #002_Homem 01_Rig|Armature|mi.000'
+    7400004: 'NPC #002_Homem 01_Rig|NPC #002_Homem 01_Rig.001|NPC #002_Homem 01_Rig|Armature|mixamo'
+    7400006: 'NPC #002_Homem 01_Rig|NPC #002_Homem 01_Rig.001|NPC #002_Homem 01_Rig|NPC
+      #002_Homem '
+    7400008: 'NPC #002_Homem 01_Rig|NPC #002_Homem 01_RigAction'
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

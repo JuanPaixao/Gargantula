@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a27fa335f32ca6849bbe9287ee97d26c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cardinal
+  fontNames:
+  - Cardinal
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5aedb6b4e3aa184499ea80e135ed7b87, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 1
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

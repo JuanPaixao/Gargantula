@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: 4f116d44c725104438bd4702a78d2508
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Brick
+    100004: Brick 1
+    100006: Brick 10
+    100008: Brick 11
+    100010: Brick 12
+    100012: Brick 2
+    100014: Brick 3
+    100016: Brick 4
+    100018: Brick 5
+    100020: Brick 6
+    100022: Brick 7
+    100024: Brick 8
+    100026: Brick 9
+    100028: Brick001
+    100030: Brick002
+    100032: Brick003
+    100034: Brick004
+    100036: Brick005
+    100038: Brick006
+    100040: Brick007
+    100042: Brick008
+    100044: Chimneytop
+    100046: mushroom
+    100048: mushroom 1
+    100050: mushroom 2
+    100052: mushroom 3
+    100054: mushroom 4
+    100056: mushroom 5
+    100058: mushroom 6
+    100060: Object001
+    100062: Object002
+    100064: Object003
+    100066: Object004
+    100068: Object005
+    100070: Plane013
+    100072: Plane082
+    100074: Plane124
+    100076: Plane130
+    100078: Plane131
+    100080: Plane132
+    100082: Plane133
+    100084: Plane134
+    100086: Plane135
+    100088: Plane138
+    100090: Plane139
+    100092: Plane140
+    100094: Plane141
+    100096: Plane142
+    100098: Plane143
+    100100: Plane144
+    100102: Plane145
+    100104: Plane146
+    100106: Plane147
+    100108: Plane148
+    100110: Plane149
+    100112: Plane150
+    100114: Plane151
+    100116: Plane152
+    100118: Plane153
+    100120: Plane154
+    100122: Plane155
+    100124: Plane156
+    100126: Plane157
+    100128: Plane159
+    100130: Plane160
+    100132: Plane162
+    100134: Plane168
+    100136: Plane174
+    100138: Plane175
+    100140: Plane176
+    100142: Plane177
+    100144: Plane178
+    100146: Plane179
+    100148: plynth
+    100150: rock
+    100152: Sphere008
+    100154: Torus003
+    100156: //RootNode
+    100158: tree
+    100160: window
+    400000: Box001
+    400002: Brick
+    400004: Brick 1
+    400006: Brick 10
+    400008: Brick 11
+    400010: Brick 12
+    400012: Brick 2
+    400014: Brick 3
+    400016: Brick 4
+    400018: Brick 5
+    400020: Brick 6
+    400022: Brick 7
+    400024: Brick 8
+    400026: Brick 9
+    400028: Brick001
+    400030: Brick002
+    400032: Brick003
+    400034: Brick004
+    400036: Brick005
+    400038: Brick006
+    400040: Brick007
+    400042: Brick008
+    400044: Chimneytop
+    400046: mushroom
+    400048: mushroom 1
+    400050: mushroom 2
+    400052: mushroom 3
+    400054: mushroom 4
+    400056: mushroom 5
+    400058: mushroom 6
+    400060: Object001
+    400062: Object002
+    400064: Object003
+    400066: Object004
+    400068: Object005
+    400070: Plane013
+    400072: Plane082
+    400074: Plane124
+    400076: Plane130
+    400078: Plane131
+    400080: Plane132
+    400082: Plane133
+    400084: Plane134
+    400086: Plane135
+    400088: Plane138
+    400090: Plane139
+    400092: Plane140
+    400094: Plane141
+    400096: Plane142
+    400098: Plane143
+    400100: Plane144
+    400102: Plane145
+    400104: Plane146
+    400106: Plane147
+    400108: Plane148
+    400110: Plane149
+    400112: Plane150
+    400114: Plane151
+    400116: Plane152
+    400118: Plane153
+    400120: Plane154
+    400122: Plane155
+    400124: Plane156
+    400126: Plane157
+    400128: Plane159
+    400130: Plane160
+    400132: Plane162
+    400134: Plane168
+    400136: Plane174
+    400138: Plane175
+    400140: Plane176
+    400142: Plane177
+    400144: Plane178
+    400146: Plane179
+    400148: plynth
+    400150: rock
+    400152: Sphere008
+    400154: Torus003
+    400156: //RootNode
+    400158: tree
+    400160: window
+    2100000: 'Material #77'
+    2100002: 'Material #76'
+    2100004: 'Material #50'
+    2100006: 'Material #49'
+    2100008: 'Material #73'
+    2100010: 'Material #78'
+    2100012: 'Material #75'
+    2100014: 'Material #117'
+    2100016: 'Material #119'
+    2100018: 'Material #121'
+    2100020: 'Material #118'
+    2100022: 'Material #125'
+    2100024: 'Material #124'
+    2100026: 'Material #126'
+    2100028: 'Material #128'
+    2100030: 'Material #129'
+    2100032: 'Material #131'
+    2100034: 'Material #196'
+    2300000: Box001
+    2300002: Brick 1
+    2300004: Brick 10
+    2300006: Brick 11
+    2300008: Brick 12
+    2300010: Brick 2
+    2300012: Brick 3
+    2300014: Brick 4
+    2300016: Brick 5
+    2300018: Brick 6
+    2300020: Brick 7
+    2300022: Brick 8
+    2300024: Brick 9
+    2300026: Brick001
+    2300028: Brick002
+    2300030: Brick003
+    2300032: Brick004
+    2300034: Brick005
+    2300036: Brick006
+    2300038: Brick007
+    2300040: Brick008
+    2300042: Chimneytop
+    2300044: mushroom
+    2300046: mushroom 1
+    2300048: mushroom 2
+    2300050: mushroom 3
+    2300052: mushroom 5
+    2300054: mushroom 6
+    2300056: Object001
+    2300058: Object002
+    2300060: Object003
+    2300062: Object004
+    2300064: Object005
+    2300066: Plane013
+    2300068: Plane082
+    2300070: Plane124
+    2300072: Plane130
+    2300074: Plane132
+    2300076: Plane133
+    2300078: Plane135
+    2300080: Plane138
+    2300082: Plane139
+    2300084: Plane140
+    2300086: Plane141
+    2300088: Plane142
+    2300090: Plane143
+    2300092: Plane144
+    2300094: Plane145
+    2300096: Plane147
+    2300098: Plane149
+    2300100: Plane150
+    2300102: Plane151
+    2300104: Plane152
+    2300106: Plane153
+    2300108: Plane154
+    2300110: Plane155
+    2300112: Plane168
+    2300114: Plane175
+    2300116: Plane176
+    2300118: Plane177
+    2300120: Plane178
+    2300122: Plane179
+    2300124: plynth
+    2300126: Sphere008
+    2300128: Torus003
+    2300130: tree
+    3300000: Box001
+    3300002: Brick 1
+    3300004: Brick 10
+    3300006: Brick 11
+    3300008: Brick 12
+    3300010: Brick 2
+    3300012: Brick 3
+    3300014: Brick 4
+    3300016: Brick 5
+    3300018: Brick 6
+    3300020: Brick 7
+    3300022: Brick 8
+    3300024: Brick 9
+    3300026: Brick001
+    3300028: Brick002
+    3300030: Brick003
+    3300032: Brick004
+    3300034: Brick005
+    3300036: Brick006
+    3300038: Brick007
+    3300040: Brick008
+    3300042: Chimneytop
+    3300044: mushroom
+    3300046: mushroom 1
+    3300048: mushroom 2
+    3300050: mushroom 3
+    3300052: mushroom 5
+    3300054: mushroom 6
+    3300056: Object001
+    3300058: Object002
+    3300060: Object003
+    3300062: Object004
+    3300064: Object005
+    3300066: Plane013
+    3300068: Plane082
+    3300070: Plane124
+    3300072: Plane130
+    3300074: Plane132
+    3300076: Plane133
+    3300078: Plane135
+    3300080: Plane138
+    3300082: Plane139
+    3300084: Plane140
+    3300086: Plane141
+    3300088: Plane142
+    3300090: Plane143
+    3300092: Plane144
+    3300094: Plane145
+    3300096: Plane147
+    3300098: Plane149
+    3300100: Plane150
+    3300102: Plane151
+    3300104: Plane152
+    3300106: Plane153
+    3300108: Plane154
+    3300110: Plane155
+    3300112: Plane168
+    3300114: Plane175
+    3300116: Plane176
+    3300118: Plane177
+    3300120: Plane178
+    3300122: Plane179
+    3300124: plynth
+    3300126: Sphere008
+    3300128: Torus003
+    3300130: tree
+    4300000: Box001
+    4300002: plynth
+    4300004: Chimneytop
+    4300006: Torus003
+    4300008: mushroom
+    4300010: mushroom
+    4300012: Sphere008
+    4300014: mushroom
+    4300016: mushroom
+    4300018: mushroom
+    4300020: mushroom
+    4300022: Brick
+    4300024: Brick
+    4300026: Brick
+    4300028: Brick
+    4300030: Brick
+    4300032: Brick
+    4300034: Brick
+    4300036: Brick
+    4300038: Brick
+    4300040: Brick
+    4300042: Brick
+    4300044: Brick
+    4300046: tree
+    4300048: Brick001
+    4300050: Brick002
+    4300052: Brick003
+    4300054: Brick004
+    4300056: Brick005
+    4300058: Brick006
+    4300060: Brick007
+    4300062: Brick008
+    4300064: Object001
+    4300066: Object002
+    4300068: Object003
+    4300070: Object004
+    4300072: Object005
+    4300074: Plane013
+    4300076: Plane082
+    4300078: Plane124
+    4300080: Plane130
+    4300082: Plane132
+    4300084: Plane133
+    4300086: Plane135
+    4300088: Plane138
+    4300090: Plane139
+    4300092: Plane140
+    4300094: Plane141
+    4300096: Plane142
+    4300098: Plane143
+    4300100: Plane144
+    4300102: Plane145
+    4300104: Plane147
+    4300106: Plane149
+    4300108: Plane150
+    4300110: Plane151
+    4300112: Plane152
+    4300114: Plane153
+    4300116: Plane154
+    4300118: Plane155
+    4300120: Plane168
+    4300122: Plane175
+    4300124: Plane176
+    4300126: Plane177
+    4300128: Plane178
+    4300130: Plane179
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #117'
+    second: {fileID: 2100000, guid: a79db6a0002262647999ec3dce3499aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #118'
+    second: {fileID: 2100000, guid: 600229ed9ec5b4c4495ed7798d5cca22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #119'
+    second: {fileID: 2100000, guid: d96698e98f5a16e4b91b79ac4da0b290, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #121'
+    second: {fileID: 2100000, guid: 209ebf8b0cb3d8040a8593eeb219cdc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #124'
+    second: {fileID: 2100000, guid: f6a68afa39470e148859ff3645c62582, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #125'
+    second: {fileID: 2100000, guid: 16070c3fc5f81334193dc7a24196bd43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #126'
+    second: {fileID: 2100000, guid: d964d63dceaa9d44db1fe071724fb88b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #128'
+    second: {fileID: 2100000, guid: 81c706f5763e16340807d51fe7e4d378, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #129'
+    second: {fileID: 2100000, guid: 9ef4a93d3d0548546b0cc60ff9c25772, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #131'
+    second: {fileID: 2100000, guid: 3965a8d3dc8712e4e9d2e4fe3fc57aa8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #196'
+    second: {fileID: 2100000, guid: 41f2f4b9eb9c6864da80346da7a6c78c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #49'
+    second: {fileID: 2100000, guid: 56d3b2c4d4a78024d8c3f87fd7be35e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #50'
+    second: {fileID: 2100000, guid: 2aeba1e7944606847a4446c64a2ed837, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #73'
+    second: {fileID: 2100000, guid: 557398a25c359ee4ea1ebc79c7d7dc53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #75'
+    second: {fileID: 2100000, guid: 1fa48757e1a81bd4184951bc62b4a961, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #76'
+    second: {fileID: 2100000, guid: 41d3bd10acc981941885c57bc411f284, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #77'
+    second: {fileID: 2100000, guid: 398ae50ef836be34d8016cae00bd152e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #78'
+    second: {fileID: 2100000, guid: 044ee9a600ee0ae4fb6a9f0260fbf0a4, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
