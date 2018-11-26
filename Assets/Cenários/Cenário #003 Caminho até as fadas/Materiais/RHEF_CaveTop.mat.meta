@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c33325cb2cb77ea43ba82020d1c0b4df
+labels:
+- cliff
+- dirt
+- grass
+- materials
+- rockgrass
+- rocks
+- smalldetails
+- stones
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: materials
+  assetBundleVariant: 
