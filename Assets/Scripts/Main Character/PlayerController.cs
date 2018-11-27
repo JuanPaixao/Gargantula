@@ -54,14 +54,15 @@ public class PlayerController : CharacterBehaviour
         moveDirection = new Vector3(move * _speed, moveDirection.y, 0);
         WalkAnimation(move);
 
-        if(_controller.isGrounded)
+        if (_controller.isGrounded)
         {
             if (Input.GetButtonDown("Jump"))
             {
                 moveDirection.y = _jumpForce;
                 _animator.SetTrigger("Jump");
             }
-        } else
+        }
+        else
         {
             AirBehavior();
         }
@@ -176,13 +177,13 @@ public class PlayerController : CharacterBehaviour
     private void ArrowBehavior()
     {
         bool hasArrow = (arrow != null) ? true : false;
-        if ((Input.GetButtonDown("Shoot")|| Input.GetAxis("Shoot")>0.1f) && !hasArrow)
+        if ((Input.GetButtonDown("Shoot") || Input.GetAxis("Shoot") > 0.1f) && !hasArrow)
         {
             arrow = Instantiate(arrowModel, bowHolder.transform.position, bowHolder.transform.rotation);
             arrow.GetComponent<ArrowBahaviour>().SetOwner(this);
             arrow.transform.parent = bowHolder.transform;
         }
-        else if ((Input.GetButtonDown("Shoot") || Input.GetAxis("Shoot") >0.1f) && hasArrow && arrow.GetComponent<ArrowBahaviour>() != null)
+        else if ((Input.GetButtonDown("Shoot") || Input.GetAxis("Shoot") > 0.1f) && hasArrow && arrow.GetComponent<ArrowBahaviour>() != null)
         {
             Vector3 vec3byport = new Vector3(Input.GetAxis("HoriLJ"), Input.GetAxis("VertLJ"));
             vec3byport = (vec3byport == Vector3.zero) ? MathematicalSupport.ViewPortNormatize() : vec3byport;
@@ -219,12 +220,6 @@ public class PlayerController : CharacterBehaviour
             this.RestoreAllStatus();
             _checkpoint = checkpoint.Checkpoint();
         }
-    }
-
-    public bool IsTalking()
-    {
-        DialogueManager _dialogueManager = FindObjectOfType<DialogueManager>();
-        return _dialogueManager.IsTalking();
     }
 
     private bool IsAttackingOrDefending()
