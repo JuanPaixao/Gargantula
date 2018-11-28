@@ -89,8 +89,8 @@ public class PlayerController : CharacterBehaviour
                 transform.rotation = Quaternion.LookRotation(NextDir);
         }
 
-        _isAttackPressed = Input.GetButtonDown("WeakAttack");
-        _isStrongAttackPressed = Input.GetButtonDown("StrongAttack");
+        _isAttackPressed = Input.GetButtonDown("Attack");
+        _isStrongAttackPressed = Input.GetButtonDown("Attack");
         _isDefenseHold = Input.GetButton("Defense");
     }
 
@@ -143,20 +143,20 @@ public class PlayerController : CharacterBehaviour
         else if (_isStrongAttackPressed && _weapon != null && (!_attacking || _isFinishingAttack == 1 || _isFinishingAttack == 2))
         {
             StrongAttack();
-            _animator.SetTrigger("Attack Strong");
+            _animator.SetTrigger("Attack");
         }
     }
 
     public void WhenStartingAttack()
     {
         AnimatorStateInfo state = _animator.GetCurrentAnimatorStateInfo(0);
-        if (IsAttackingOrDefending() && !state.IsTag("Attack Strong"))
+        if (IsAttackingOrDefending() && !state.IsTag("Attack"))
         {
             float l = Mathf.Lerp(_controller.velocity.x / 1.75f, 0, Time.deltaTime);
             moveDirection.x = l;
             _animator.SetFloat("Speed", moveDirection.x);
         }
-        else if (_attacking && state.IsTag("Attack Strong"))
+        else if (_attacking && state.IsTag("Attack"))
         {
             float l = 0;
             if (_controller.velocity.x != 0)
