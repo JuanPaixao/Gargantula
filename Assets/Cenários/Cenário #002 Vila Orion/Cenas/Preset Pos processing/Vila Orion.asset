@@ -69,10 +69,10 @@ MonoBehaviour:
     value: 1
   temperature:
     overrideState: 1
-    value: 43
+    value: 22.2
   tint:
     overrideState: 1
-    value: 16
+    value: 0.7
   colorFilter:
     overrideState: 1
     value: {r: 1, g: 1, b: 1, a: 1}
@@ -1398,7 +1398,7 @@ MonoBehaviour:
     value: 1
   softKnee:
     overrideState: 1
-    value: 0.868
+    value: 0.592
   clamp:
     overrideState: 1
     value: 65472
@@ -1441,10 +1441,10 @@ MonoBehaviour:
     value: 30
   aperture:
     overrideState: 1
-    value: 9.3
+    value: 0.7
   focalLength:
     overrideState: 1
-    value: 240
+    value: 62
   kernelSize:
     overrideState: 1
     value: 0
