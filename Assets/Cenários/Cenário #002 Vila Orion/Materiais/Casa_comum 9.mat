@@ -8,8 +8,8 @@ Material:
   m_PrefabInternal: {fileID: 0}
   m_Name: Casa_comum 9
   m_Shader: {fileID: 4800000, guid: 9c6ece3d5ef8bb84db19471daaf6c788, type: 3}
-  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA _METALLICGLOSSMAP _METALLICSPECGLOSSMAP _NORMALMAP
-  m_LightmapFlags: 1
+  m_ShaderKeywords: _METALLICGLOSSMAP _METALLICSPECGLOSSMAP _NORMALMAP
+  m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
@@ -19,7 +19,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: d01f1b8995be3094ab8e85fa4f288ca4, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -39,7 +39,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 094cee3f93bfd1a4094edfb361fec27e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -69,8 +69,8 @@ Material:
     - _GlossMapScale: 0.337
     - _Glossiness: 0
     - _GlossyReflections: 1
-    - _LightSmoothness: 0.576
-    - _LightThreshold: 0.822
+    - _LightSmoothness: 0.092
+    - _LightThreshold: 0.192
     - _MKEditorShowDetailBehavior: 0
     - _MKEditorShowDissolveBehavior: 0
     - _MKEditorShowLightBehavior: 1
@@ -81,21 +81,21 @@ Material:
     - _MKEditorShowRimBehavior: 1
     - _MKEditorShowShadowBehavior: 1
     - _MKEditorShowSketchBehavior: 0
-    - _MKEditorShowSpecularBehavior: 0
+    - _MKEditorShowSpecularBehavior: 1
     - _MKEditorShowTranslucentBehavior: 0
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
     - _OutlineSize: 0.0003
     - _Parallax: 0.02
-    - _RimIntensity: 0.087
-    - _RimSize: 2.5
-    - _RimSmoothness: 0.052
-    - _ShadowIntensity: 1.05
-    - _Shininess: 0.484
+    - _RimIntensity: 0.092
+    - _RimSize: 2.76
+    - _RimSmoothness: 0.127
+    - _ShadowIntensity: 1
+    - _Shininess: 0.07
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
-    - _SpecularIntensity: 0.172
+    - _SpecularIntensity: 0.22
     - _SrcBlend: 1
     - _Surface: 0
     - _UVSec: 0
