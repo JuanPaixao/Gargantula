@@ -81,7 +81,7 @@ public class StatBehaviour : MonoBehaviour
     /// Grabhands = object who will holds de main object
     /// </summary>
     public GameObject grabhands;
-    
+
 
     // Use this for initialization
     public void StartStatBehavior()
@@ -94,7 +94,7 @@ public class StatBehaviour : MonoBehaviour
         else Attack1 = OAttack1;
         if (OAttack2 <= 0) Attack2 = 2;
         else Attack2 = OAttack2;
-        IsDefend =  IsLanded = IsDead = OnLedge = OnClimb = OnLever = OnChest= OnShop = false;
+        IsDefend = IsLanded = IsDead = OnLedge = OnClimb = OnLever = OnChest = OnShop = false;
         if (OLife <= 0) tLife = cLife = 100;
         else tLife = cLife = OLife;
         if (OStamina <= 0) tStamina = cStamina = 100;
@@ -378,17 +378,20 @@ public class StatBehaviour : MonoBehaviour
             OnChest = true;
             chestObj = other.gameObject.GetComponent<chestButton>();
         }
-        if ( OnClimb || OnLever || OnChest || OnShop) magic.OnInteract(true);
-        if (other.GetComponent<IDeath>() != null)this.Kill();
+        if (OnClimb || OnLever || OnChest || OnShop) magic.OnInteract(true);
+        if (other.GetComponent<IDeath>() != null) this.Kill();
     }
 
     protected void StatusExitingTrigger(Collider other)
     {
-        if (other.gameObject.tag == "Ledge") OnLedge = false;
-        if (other.gameObject.tag == "Climb") OnClimb = false;
-        if (other.gameObject.tag == "Shop") OnShop = false;
-        if (other.gameObject.tag == "Lever") OnLever = false;
-        if (other.gameObject.tag == "Chest") OnChest = false;
-        if (!OnClimb && !OnLever && !OnChest && !OnShop) magic.OnInteract(false);
+        if (!other.CompareTag("NPC"))
+        {
+            if (other.gameObject.tag == "Ledge") OnLedge = false;
+            if (other.gameObject.tag == "Climb") OnClimb = false;
+            if (other.gameObject.tag == "Shop") OnShop = false;
+            if (other.gameObject.tag == "Lever") OnLever = false;
+            if (other.gameObject.tag == "Chest") OnChest = false;
+            if (!OnClimb && !OnLever && !OnChest && !OnShop) magic.OnInteract(false);
+        }
     }
 }
