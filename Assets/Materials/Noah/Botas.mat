@@ -96,10 +96,10 @@ Material:
     - _Outline: 8.53
     - _OutlineSize: 0.005
     - _Parallax: 0.02
-    - _RimIntensity: 0.073
-    - _RimSize: 0.76
-    - _RimSmoothness: 0.131
-    - _ShadowIntensity: 1.037
+    - _RimIntensity: 0.079
+    - _RimSize: 1.18
+    - _RimSmoothness: 0.195
+    - _ShadowIntensity: 0.53
     - _Shininess: 0.02
     - _SmoothnessTextureChannel: 0
     - _SpecSource: 0
@@ -114,7 +114,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 0}
     - _HighlightColor: {r: 1, g: 1, b: 1, a: 1}
     - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
     - _RimColor: {r: 0.7735849, g: 0.58535707, b: 0.12041653, a: 1}

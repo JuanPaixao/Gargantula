@@ -76,19 +76,19 @@ Material:
     - _Glossiness: 0.268
     - _GlossinessSource: 0
     - _GlossyReflections: 1
-    - _LightSmoothness: 0.167
-    - _LightThreshold: 0.273
+    - _LightSmoothness: 0.287
+    - _LightThreshold: 0.01
     - _MKEditorShowDetailBehavior: 0
     - _MKEditorShowDissolveBehavior: 0
     - _MKEditorShowLightBehavior: 1
     - _MKEditorShowMainBehavior: 1
-    - _MKEditorShowOutlineBehavior: 1
+    - _MKEditorShowOutlineBehavior: 0
     - _MKEditorShowReflectionBehavior: 0
-    - _MKEditorShowRenderBehavior: 0
-    - _MKEditorShowRimBehavior: 0
-    - _MKEditorShowShadowBehavior: 0
+    - _MKEditorShowRenderBehavior: 1
+    - _MKEditorShowRimBehavior: 1
+    - _MKEditorShowShadowBehavior: 1
     - _MKEditorShowSketchBehavior: 0
-    - _MKEditorShowSpecularBehavior: 0
+    - _MKEditorShowSpecularBehavior: 1
     - _MKEditorShowTranslucentBehavior: 0
     - _Metallic: 0.418
     - _Mode: 0
@@ -96,15 +96,15 @@ Material:
     - _Outline: -100
     - _OutlineSize: 0.005
     - _Parallax: 0.02
-    - _RimIntensity: 0.077
-    - _RimSize: 0.37
-    - _RimSmoothness: 0.061
+    - _RimIntensity: 0.411
+    - _RimSize: 0.8
+    - _RimSmoothness: 0.27
     - _ShadowIntensity: 0.937
-    - _Shininess: 0.059
+    - _Shininess: 0.117
     - _SmoothnessTextureChannel: 0
     - _SpecSource: 0
     - _SpecularHighlights: 1
-    - _SpecularIntensity: 0.076
+    - _SpecularIntensity: 0.092
     - _SrcBlend: 1
     - _Surface: 0
     - _TintColor: 1
@@ -114,7 +114,7 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 0}
     - _HighlightColor: {r: 1, g: 1, b: 1, a: 1}
     - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
     - _RimColor: {r: 1, g: 0.37736028, b: 0, a: 1}

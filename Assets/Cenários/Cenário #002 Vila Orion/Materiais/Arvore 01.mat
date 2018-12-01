@@ -7,9 +7,10 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_Name: Arvore 01
-  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: ETC1_EXTERNAL_ALPHA UNITY_UI_ALPHACLIP _ALPHABLEND_ON
-  m_LightmapFlags: 4
+  m_Shader: {fileID: 211, guid: 0000000000000000f000000000000000, type: 0}
+  m_ShaderKeywords: EFFECT_BUMP ETC1_EXTERNAL_ALPHA UNITY_UI_ALPHACLIP _ALPHABLEND_ON
+    _EMISSION _FADING_ON _REQUIRE_UV2
+  m_LightmapFlags: 0
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: 3000
@@ -47,6 +48,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _EmissiveMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _GlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -81,19 +86,34 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - PixelSnap: 0
-    - _AO: 7.1
-    - _BaseLight: 0.356
+    - _AO: 0
+    - _BaseLight: 1
+    - _BlendOp: 0
     - _BumpScale: 1
+    - _CameraFadingEnabled: 1
+    - _CameraFarFadeDistance: 2
+    - _CameraNearFadeDistance: 1
     - _ColorMask: 15
-    - _Cutoff: 0.9
+    - _ColorMode: 0
+    - _Cull: 2
+    - _Cutoff: 0.814
     - _DetailNormalMapScale: 1
+    - _DistortionBlend: 0.079
+    - _DistortionEnabled: 1
+    - _DistortionStrength: 55
+    - _DistortionStrengthScaled: 5.5
     - _DstBlend: 10
+    - _EmissionEnabled: 1
+    - _EmissivePow: 0
     - _EnableExternalAlpha: 0
+    - _FlipbookMode: 1
     - _GlossMapScale: 1
-    - _Glossiness: 0.395
+    - _Glossiness: 0.197
     - _GlossyReflections: 1
+    - _InvFade: 0.97
     - _LightSmoothness: 0.487
     - _LightThreshold: 0.204
+    - _LightingEnabled: 0
     - _MKEditorShowDetailBehavior: 0
     - _MKEditorShowDissolveBehavior: 0
     - _MKEditorShowLightBehavior: 1
@@ -106,9 +126,9 @@ Material:
     - _MKEditorShowSketchBehavior: 0
     - _MKEditorShowSpecularBehavior: 0
     - _MKEditorShowTranslucentBehavior: 0
-    - _Metallic: 0
+    - _Metallic: 0.487
     - _Mode: 2
-    - _Occlusion: 7.9
+    - _Occlusion: 20
     - _OcclusionStrength: 1
     - _OutlineSize: 0.02
     - _Parallax: 0.005
@@ -118,6 +138,9 @@ Material:
     - _ShadowIntensity: 1
     - _Shininess: 0.316
     - _SmoothnessTextureChannel: 0
+    - _SoftParticlesEnabled: 0
+    - _SoftParticlesFarFadeDistance: 1
+    - _SoftParticlesNearFadeDistance: 0
     - _SpecularHighlights: 1
     - _SpecularIntensity: 0.5
     - _SquashAmount: 1
@@ -131,15 +154,21 @@ Material:
     - _UseUIAlphaClip: 1
     - _ZWrite: 0
     m_Colors:
-    - _Color: {r: 1, g: 0.9789836, b: 0.11792451, a: 1}
+    - _CameraFadeParams: {r: 1, g: 1, b: 0, a: 0}
+    - _Color: {r: 0.8139268, g: 1, b: 0, a: 1}
+    - _ColorAddSubDiff: {r: -1, g: 0, b: 0, a: 0}
+    - _EmisColor: {r: 1, g: 1, b: 1, a: 0}
     - _Emission: {r: 0, g: 0, b: 0, a: 0}
-    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _EmissionColor: {r: 0.14150941, g: 0.12962526, b: 0, a: 1}
+    - _EmissiveColor: {r: 1, g: 1, b: 1, a: 1}
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
     - _HighlightColor: {r: 1, g: 1, b: 1, a: 1}
     - _OutlineColor: {r: 0, g: 0, b: 0, a: 1}
     - _RendererColor: {r: 1, g: 1, b: 1, a: 1}
     - _RimColor: {r: 1, g: 1, b: 1, a: 1}
     - _ShadowColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 1, g: 1, b: 1, a: 0.5}
+    - _TintColor: {r: 1, g: 1, b: 1, a: 0.5}
     - _TreeInstanceColor: {r: 1, g: 1, b: 1, a: 1}
     - _TreeInstanceScale: {r: 1, g: 1, b: 1, a: 1}
