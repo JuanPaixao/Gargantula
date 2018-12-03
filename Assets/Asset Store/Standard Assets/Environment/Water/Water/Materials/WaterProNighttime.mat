@@ -49,6 +49,7 @@ Material:
     m_Floats:
     - _ReflDistort: 0.248
     - _RefrDistort: 1.279
+    - _WaveScale: 0.063
     m_Colors:
     - WaveSpeed: {r: 9, g: 4.5, b: -8, a: -3.5}
     - _BumpMap_ST: {r: 1, g: 1, b: 0, a: 0}
