@@ -59,7 +59,7 @@ public class DialogueManager : MonoBehaviour
             else
             {
                 myNPC.GetComponent<NPC_DialogueTrigger>().isActive = false;
-                _player.isOnDialogue = false;
+                _player.canMove = true;
                 dialogueOff.SetActive(false);
             }
             return;

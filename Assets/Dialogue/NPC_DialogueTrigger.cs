@@ -18,7 +18,7 @@ public class NPC_DialogueTrigger : MonoBehaviour
             if (Input.GetKeyDown(KeyCode.UpArrow) || Input.GetKeyDown(KeyCode.W))
             {
                 dialogue.SetActive(true);
-                player.isOnDialogue = true;
+                player.canMove = false;
             }
         }
     }
@@ -27,7 +27,7 @@ public class NPC_DialogueTrigger : MonoBehaviour
         if (other.CompareTag("Player") && isActive == true)
         {
             dialogue.SetActive(false);
-            player.isOnDialogue = false;
+            player.canMove = true;
         }
     }
 }
